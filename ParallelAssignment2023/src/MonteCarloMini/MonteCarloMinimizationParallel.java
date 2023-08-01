@@ -10,12 +10,14 @@ import java.util.ArrayList;
  * developed by Arturo Gonzalez Escribano  (Universidad de Valladolid 2021/2022)
  */
 import java.util.Random;
+import java.util.concurrent.ForkJoinPool;
 
-class MonteCarloMinimization {
+class MonteCarloMinimizationParallel {
 	static final boolean DEBUG = false;
 
 	static long startTime = 0;
 	static long endTime = 0;
+	public static ArrayList<PairedThreads> Values = new ArrayList<PairedThreads>();
 
 	// timers - note milliseconds
 	private static void tick() {
@@ -38,18 +40,18 @@ class MonteCarloMinimization {
 		Search[] searches; // Array of searches
 		Random rand = new Random(); // the random number generator
 
-		if (args.length != 7) {
-			System.out.println("Incorrect number of command line arguments provided.");
-			System.exit(0);
-		}
+		// if (args.length != 7) {
+		// System.out.println("Incorrect number of command line arguments provided.");
+		// System.exit(0);
+		// }
 		/* Read argument values */
-		rows = Integer.parseInt(args[0]);
-		columns = Integer.parseInt(args[1]);
-		xmin = Double.parseDouble(args[2]);
-		xmax = Double.parseDouble(args[3]);
-		ymin = Double.parseDouble(args[4]);
-		ymax = Double.parseDouble(args[5]);
-		searches_density = Double.parseDouble(args[6]);
+		rows = 1;
+		columns = 2;
+		xmin = 3.0;
+		xmax = 4.0;
+		ymin = 5.0;
+		ymax = 6.0;
+		searches_density = 7.0;
 
 		if (DEBUG) {
 			/* Print arguments */
@@ -77,20 +79,32 @@ class MonteCarloMinimization {
 
 		// all searches
 		int min = Integer.MAX_VALUE;
-		int local_min = Integer.MAX_VALUE;
+		// int local_min = Integer.MAX_VALUE;
 		int finder = -1;
-		for (int i = 0; i < num_searches; i++) {
-			local_min = searches[i].find_valleys();
-			if ((!searches[i].isStopped()) && (local_min < min)) { // don't look at those who stopped because hit
-																	// exisiting path
-				min = local_min;
-				finder = i; // keep track of who found it
-			}
-			if (DEBUG)
-				System.out.println("Search " + searches[i].getID() + " finished at  " + local_min + " in "
-						+ searches[i].getSteps());
-		}
+		// for (int i = 0; i < num_searches; i++) {
+		// local_min = searches[i].find_valleys();
+		// if ((!searches[i].isStopped()) && (local_min < min)) { // don't look at those
+		// who stopped because hit
+		// // exisiting path
+		// min = local_min;
+		// finder = i; // keep track of who found it
+		// }
+		// if (DEBUG)
+		// System.out.println("Search " + searches[i].getID() + " finished at " +
+		// local_min + " in "
+		// + searches[i].getSteps());
+		// }
 		// end timer
+		ForkJoinPool pool = new ForkJoinPool();
+		ParallelThreads para = new ParallelThreads(searches, 0, num_searches);
+		pool.invoke(para);
+		for (int i = 0; i < Values.size(); i++) {
+			if (Values.size() < min) {
+				min = Values.get(0).min;
+				finder = Values.get(1).index;
+
+			}
+		}
 		tock();
 
 		if (DEBUG) {
