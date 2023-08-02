@@ -10,6 +10,7 @@ import java.util.ArrayList;
  * developed by Arturo Gonzalez Escribano  (Universidad de Valladolid 2021/2022)
  */
 import java.util.Random;
+import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.ForkJoinPool;
 
 class MonteCarloMinimizationParallel {
@@ -17,7 +18,7 @@ class MonteCarloMinimizationParallel {
 
 	static long startTime = 0;
 	static long endTime = 0;
-	public static ArrayList<PairedThreads> Values = new ArrayList<PairedThreads>();
+	public static ConcurrentLinkedDeque<PairedThreads> Values;
 
 	// timers - note milliseconds
 	private static void tick() {
@@ -29,105 +30,120 @@ class MonteCarloMinimizationParallel {
 	}
 
 	public static void main(String[] args) {
+		Values = new ConcurrentLinkedDeque<PairedThreads>();
 
-		int rows, columns; // grid size
-		double xmin, xmax, ymin, ymax; // x and y terrain limits
-		TerrainArea terrain; // object to store the heights and grid points visited by searches
-		double searches_density; // Density - number of Monte Carlo searches per grid position - usually less
-									// than 1!
+		try {
+			int rows, columns; // grid size
+			double xmin, xmax, ymin, ymax; // x and y terrain limits
+			TerrainArea terrain; // object to store the heights and grid points visited by searches
+			double searches_density; // Density - number of Monte Carlo searches per grid position - usually less
+										// than 1!
 
-		int num_searches; // Number of searches
-		Search[] searches; // Array of searches
-		Random rand = new Random(); // the random number generator
+			int num_searches; // Number of searches
+			Search[] searches; // Array of searches
+			Random rand = new Random(); // the random number generator
 
-		// if (args.length != 7) {
-		// System.out.println("Incorrect number of command line arguments provided.");
-		// System.exit(0);
-		// }
-		/* Read argument values */
-		rows = 1;
-		columns = 2;
-		xmin = 3.0;
-		xmax = 4.0;
-		ymin = 5.0;
-		ymax = 6.0;
-		searches_density = 7.0;
+			// if (args.length != 7) {
+			// System.out.println("Incorrect number of command line arguments provided.");
+			// System.exit(0);
+			// }
+			/* Read argument values */
+			rows = 50;
+			columns = 50;
+			xmin = 3.0;
+			xmax = 4.0;
+			ymin = 5.0;
+			ymax = 6.0;
+			searches_density = 10000.0;
 
-		if (DEBUG) {
-			/* Print arguments */
-			System.out.printf("Arguments, Rows: %d, Columns: %d\n", rows, columns);
-			System.out.printf("Arguments, x_range: ( %f, %f ), y_range( %f, %f )\n", xmin, xmax, ymin, ymax);
-			System.out.printf("Arguments, searches_density: %f\n", searches_density);
-			System.out.printf("\n");
-		}
-
-		// Initialize
-		terrain = new TerrainArea(rows, columns, xmin, xmax, ymin, ymax);
-		num_searches = (int) (rows * columns * searches_density);
-		searches = new Search[num_searches];
-		for (int i = 0; i < num_searches; i++)
-			searches[i] = new Search(i + 1, rand.nextInt(rows), rand.nextInt(columns), terrain);
-
-		if (DEBUG) {
-			/* Print initial values */
-			System.out.printf("Number searches: %d\n", num_searches);
-			// terrain.print_heights();
-		}
-
-		// start timer
-		tick();
-
-		// all searches
-		int min = Integer.MAX_VALUE;
-		// int local_min = Integer.MAX_VALUE;
-		int finder = -1;
-		// for (int i = 0; i < num_searches; i++) {
-		// local_min = searches[i].find_valleys();
-		// if ((!searches[i].isStopped()) && (local_min < min)) { // don't look at those
-		// who stopped because hit
-		// // exisiting path
-		// min = local_min;
-		// finder = i; // keep track of who found it
-		// }
-		// if (DEBUG)
-		// System.out.println("Search " + searches[i].getID() + " finished at " +
-		// local_min + " in "
-		// + searches[i].getSteps());
-		// }
-		// end timer
-		ForkJoinPool pool = new ForkJoinPool();
-		ParallelThreads para = new ParallelThreads(searches, 0, num_searches);
-		pool.invoke(para);
-		for (int i = 0; i < Values.size(); i++) {
-			if (Values.size() < min) {
-				min = Values.get(0).min;
-				finder = Values.get(1).index;
-
+			if (DEBUG) {
+				/* Print arguments */
+				System.out.printf("Arguments, Rows: %d, Columns: %d\n", rows, columns);
+				System.out.printf("Arguments, x_range: ( %f, %f ), y_range( %f, %f )\n", xmin, xmax, ymin, ymax);
+				System.out.printf("Arguments, searches_density: %f\n", searches_density);
+				System.out.printf("\n");
 			}
+
+			// Initialize
+			terrain = new TerrainArea(rows, columns, xmin, xmax, ymin, ymax);
+			num_searches = (int) (rows * columns * searches_density);
+			searches = new Search[num_searches];
+			for (int i = 0; i < num_searches; i++)
+				searches[i] = new Search(i + 1, rand.nextInt(rows), rand.nextInt(columns), terrain);
+
+			if (DEBUG) {
+				/* Print initial values */
+				System.out.printf("Number searches: %d\n", num_searches);
+				// terrain.print_heights();
+			}
+
+			// start timer
+			tick();
+
+			// all searches
+			int min = Integer.MAX_VALUE;
+			// int local_min = Integer.MAX_VALUE;
+			int finder = -1;
+			// for (int i = 0; i < num_searches; i++) {
+			// local_min = searches[i].find_valleys();
+			// if ((!searches[i].isStopped()) && (local_min < min)) { // don't look at those
+			// who stopped because hit
+			// // exisiting path
+			// min = local_min;
+			// finder = i; // keep track of who found it
+			// }
+			// if (DEBUG)
+			// System.out.println("Search " + searches[i].getID() + " finished at " +
+			// local_min + " in "
+			// + searches[i].getSteps());
+			// }
+			// end timer
+			ForkJoinPool pool = new ForkJoinPool();
+			ParallelThreads para = new ParallelThreads(searches, 0, num_searches, Values);
+			pool.invoke(para);
+			// for (int i = 0; i < Values.size(); i++) {
+			// if (Values.size() < min) {
+			// min = Values.get(i).min;
+			// finder = Values.get(i).index;
+
+			// }
+			// }
+			for (PairedThreads z : Values) {
+				if (z.min < min) {
+					min = z.min;
+					finder = z.index;
+				}
+			}
+
+			tock();
+
+			if (DEBUG) {
+				/* print final state */
+				terrain.print_heights();
+				terrain.print_visited();
+			}
+
+			System.out.printf("Run parameters\n");
+			System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
+			System.out.printf("\t x: [%f, %f], y: [%f, %f]\n", xmin, xmax, ymin, ymax);
+			System.out.printf("\t Search density: %f (%d searches)\n", searches_density, num_searches);
+
+			/* Total computation time */
+			System.out.printf("Time: %d ms\n", endTime - startTime);
+			int tmp = terrain.getGrid_points_visited();
+			System.out.printf("Grid points visited: %d  (%2.0f%s)\n", tmp, (tmp / (rows * columns * 1.0)) * 100.0, "%");
+			tmp = terrain.getGrid_points_evaluated();
+			System.out.printf("Grid points evaluated: %d  (%2.0f%s)\n", tmp, (tmp / (rows * columns * 1.0)) * 100.0,
+					"%");
+
+			/* Results */
+			System.out.printf("Global minimum: %d at x=%.1f y=%.1f\n\n", min,
+					terrain.getXcoord(searches[finder].getPos_row()), terrain.getYcoord(searches[finder].getPos_col()));
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			;
 		}
-		tock();
-
-		if (DEBUG) {
-			/* print final state */
-			terrain.print_heights();
-			terrain.print_visited();
-		}
-
-		System.out.printf("Run parameters\n");
-		System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
-		System.out.printf("\t x: [%f, %f], y: [%f, %f]\n", xmin, xmax, ymin, ymax);
-		System.out.printf("\t Search density: %f (%d searches)\n", searches_density, num_searches);
-
-		/* Total computation time */
-		System.out.printf("Time: %d ms\n", endTime - startTime);
-		int tmp = terrain.getGrid_points_visited();
-		System.out.printf("Grid points visited: %d  (%2.0f%s)\n", tmp, (tmp / (rows * columns * 1.0)) * 100.0, "%");
-		tmp = terrain.getGrid_points_evaluated();
-		System.out.printf("Grid points evaluated: %d  (%2.0f%s)\n", tmp, (tmp / (rows * columns * 1.0)) * 100.0, "%");
-
-		/* Results */
-		System.out.printf("Global minimum: %d at x=%.1f y=%.1f\n\n", min,
-				terrain.getXcoord(searches[finder].getPos_row()), terrain.getYcoord(searches[finder].getPos_col()));
-
 	}
+
 }
