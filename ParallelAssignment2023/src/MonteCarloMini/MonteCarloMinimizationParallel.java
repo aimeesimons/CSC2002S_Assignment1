@@ -50,11 +50,11 @@ class MonteCarloMinimizationParallel {
 			/* Read argument values */
 			rows = 50;
 			columns = 50;
-			xmin = 3.0;
-			xmax = 4.0;
-			ymin = 5.0;
-			ymax = 6.0;
-			searches_density = 10000.0;
+			xmin = -10.0;
+			xmax = 20.0;
+			ymin = -50.0;
+			ymax = 60.0;
+			searches_density = 15000.0;
 
 			if (DEBUG) {
 				/* Print arguments */

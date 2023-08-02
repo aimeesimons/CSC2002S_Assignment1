@@ -45,11 +45,11 @@ class MonteCarloMinimization {
 		/* Read argument values */
 		rows = 50;// Integer.parseInt(args[0]);
 		columns = 50;// Integer.parseInt(args[1]);
-		xmin = 3.0;// Double.parseDouble(args[2]);
-		xmax = 4.0;// Double.parseDouble(args[3]);
-		ymin = 5.0;// Double.parseDouble(args[4]);
-		ymax = 6.0;// Double.parseDouble(args[5]);
-		searches_density = 10000.0;// Double.parseDouble(args[6]);
+		xmin = -10.0;// Double.parseDouble(args[2]);
+		xmax = 20.0;// Double.parseDouble(args[3]);
+		ymin = -50.0;// Double.parseDouble(args[4]);
+		ymax = 60.0;// Double.parseDouble(args[5]);
+		searches_density = 15000.0;// Double.parseDouble(args[6]);
 
 		if (DEBUG) {
 			/* Print arguments */

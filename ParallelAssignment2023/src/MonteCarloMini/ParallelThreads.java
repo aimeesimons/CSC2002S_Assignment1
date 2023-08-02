@@ -24,7 +24,7 @@ public class ParallelThreads extends RecursiveAction {
 
     @Override
     protected void compute() {
-        if ((hi - lo) <= 10000) {
+        if ((hi - lo) <= 9500) {
             int local_min = Integer.MAX_VALUE;
 
             for (int i = lo; i < hi; i++) {
