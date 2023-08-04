@@ -48,13 +48,13 @@ class MonteCarloMinimizationParallel {
 			// System.exit(0);
 			// }
 			/* Read argument values */
-			rows = 50;
-			columns = 50;
-			xmin = -10.0;
-			xmax = 20.0;
-			ymin = -50.0;
-			ymax = 60.0;
-			searches_density = 15000.0;
+			rows = 6000;
+			columns = 6000;
+			xmin = -10000.0;
+			xmax = 20000.0;
+			ymin = -50000.0;
+			ymax = 60000.0;
+			searches_density = 0.6;
 
 			if (DEBUG) {
 				/* Print arguments */
@@ -84,30 +84,11 @@ class MonteCarloMinimizationParallel {
 			int min = Integer.MAX_VALUE;
 			// int local_min = Integer.MAX_VALUE;
 			int finder = -1;
-			// for (int i = 0; i < num_searches; i++) {
-			// local_min = searches[i].find_valleys();
-			// if ((!searches[i].isStopped()) && (local_min < min)) { // don't look at those
-			// who stopped because hit
-			// // exisiting path
-			// min = local_min;
-			// finder = i; // keep track of who found it
-			// }
-			// if (DEBUG)
-			// System.out.println("Search " + searches[i].getID() + " finished at " +
-			// local_min + " in "
-			// + searches[i].getSteps());
-			// }
-			// end timer
-			ForkJoinPool pool = new ForkJoinPool();
-			ParallelThreads para = new ParallelThreads(searches, 0, num_searches, Values);
-			pool.invoke(para);
-			// for (int i = 0; i < Values.size(); i++) {
-			// if (Values.size() < min) {
-			// min = Values.get(i).min;
-			// finder = Values.get(i).index;
 
-			// }
-			// }
+			ForkJoinPool pool = new ForkJoinPool();
+			ParallelThreads para = new ParallelThreads(searches, 0, num_searches, Values, num_searches);
+			pool.invoke(para);
+
 			for (PairedThreads z : Values) {
 				if (z.min < min) {
 					min = z.min;
@@ -115,6 +96,7 @@ class MonteCarloMinimizationParallel {
 				}
 			}
 
+			// end timer
 			tock();
 
 			if (DEBUG) {

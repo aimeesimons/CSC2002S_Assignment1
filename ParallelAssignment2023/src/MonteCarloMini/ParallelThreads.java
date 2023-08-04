@@ -12,19 +12,22 @@ public class ParallelThreads extends RecursiveAction {
     int tmp;
     public ConcurrentLinkedDeque<PairedThreads> Vals;
     public int finder;
+    int num_searches;
 
-    public ParallelThreads(Search[] arr, int lo, int num_searches, ConcurrentLinkedDeque<PairedThreads> Values) {
+    public ParallelThreads(Search[] arr, int lo, int hi, ConcurrentLinkedDeque<PairedThreads> Values,
+            int num_searches) {
         this.arr = arr;
         this.lo = lo;
-        this.hi = num_searches;
+        this.hi = hi;
         this.Vals = Values;
         this.finder = -1;
+        this.num_searches = num_searches;
 
     }
 
     @Override
     protected void compute() {
-        if ((hi - lo) <= 9500) {
+        if ((hi - lo) <= 0.1 * num_searches) {
             int local_min = Integer.MAX_VALUE;
 
             for (int i = lo; i < hi; i++) {
@@ -39,8 +42,8 @@ public class ParallelThreads extends RecursiveAction {
 
         } else {
             int split = (int) ((hi + lo) / 2.0);
-            ParallelThreads left = new ParallelThreads(arr, lo, split, Vals);
-            ParallelThreads right = new ParallelThreads(arr, split, hi, Vals);
+            ParallelThreads left = new ParallelThreads(arr, lo, split, Vals, num_searches);
+            ParallelThreads right = new ParallelThreads(arr, split, hi, Vals, num_searches);
             left.fork();
             right.compute();
             left.join();
