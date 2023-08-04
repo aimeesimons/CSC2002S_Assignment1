@@ -40,7 +40,7 @@ class MonteCarloMinimizationParallel {
 										// than 1!
 
 			int num_searches; // Number of searches
-			Search[] searches; // Array of searches
+			SearchParallel[] searches; // Array of searches
 			Random rand = new Random(); // the random number generator
 
 			// if (args.length != 7) {
@@ -67,9 +67,9 @@ class MonteCarloMinimizationParallel {
 			// Initialize
 			terrain = new TerrainArea(rows, columns, xmin, xmax, ymin, ymax);
 			num_searches = (int) (rows * columns * searches_density);
-			searches = new Search[num_searches];
+			searches = new SearchParallel[num_searches];
 			for (int i = 0; i < num_searches; i++)
-				searches[i] = new Search(i + 1, rand.nextInt(rows), rand.nextInt(columns), terrain);
+				searches[i] = new SearchParallel(i + 1, rand.nextInt(rows), rand.nextInt(columns), terrain);
 
 			if (DEBUG) {
 				/* Print initial values */
@@ -86,7 +86,7 @@ class MonteCarloMinimizationParallel {
 			int finder = -1;
 
 			ForkJoinPool pool = new ForkJoinPool();
-			ParallelThreads para = new ParallelThreads(searches, 0, num_searches, Values, num_searches);
+			SearchParallel para = new SearchParallel(searches, 0, num_searches, Values, num_searches);
 			pool.invoke(para);
 
 			for (PairedThreads z : Values) {
