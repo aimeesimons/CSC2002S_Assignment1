@@ -50,11 +50,11 @@ class MonteCarloMinimizationParallel {
 			/* Read argument values */
 			rows = 8000;
 			columns = 8000;
-			xmin = -1000.0;
-			xmax = 1000.0;
-			ymin = -1000.0;
-			ymax = 1000.0;
-			searches_density = 0.3;
+			xmin = -100.0;
+			xmax = 100.0;
+			ymin = -100.0;
+			ymax = 100.0;
+			searches_density = 0.4;
 
 			if (DEBUG) {
 				/* Print arguments */
@@ -68,8 +68,12 @@ class MonteCarloMinimizationParallel {
 			terrain = new TerrainArea(rows, columns, xmin, xmax, ymin, ymax);
 			num_searches = (int) (rows * columns * searches_density);
 			searches = new SearchParallel[num_searches];
-			for (int i = 0; i < num_searches; i++)
+			System.out.println(searches.length);
+			for (int i = 0; i < num_searches; i++) {
 				searches[i] = new SearchParallel(i + 1, rand.nextInt(rows), rand.nextInt(columns), terrain);
+
+			}
+			System.out.println(searches[num_searches].getID());
 
 			if (DEBUG) {
 				/* Print initial values */

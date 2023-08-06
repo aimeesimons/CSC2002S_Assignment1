@@ -15,7 +15,7 @@ public class SearchParallel extends RecursiveAction {
 	private int steps; // number of steps to end of SearchParallel
 	private boolean stopped; // Did the SearchParallel hit a previous trail?
 	private int hi, lo;
-	private SearchParallel[] arr;
+	private static SearchParallel[] arr;
 	int tmp;
 	public ConcurrentLinkedDeque<PairedThreads> Vals;
 	public int finder;
