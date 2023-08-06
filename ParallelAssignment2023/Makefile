@@ -6,17 +6,26 @@ SRCDIR=src/MonteCarloMini
 BINDIR=bin/MonteCarloMini
 
 .java.class:
-	$(JAVAC) $< 
+	$(JAVAC) $*.java
 
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
 
 
-CLASSES=Post.class User.class BinaryTreeNode.class BinaryTree.class BinarySearchTree.class Main.class
+CLASSES= \
+	PairedThreads.java\
+	TerrainArea.java SearchParallel.java\
+	MonteCarloMinimization.java\
+	MonteCarloMinimizationParallel.java
 
-CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
+CLASS_FILES=$(CLASSES:%.java=$(BINDIR)/%.class)
+
 default: $(CLASS_FILES)
+
 clean:
-	rm $(BINDIR)/*.class 
-run: $(CLASS_FILES)
-	java -cp bin Main
+	rm $(BINDIR)/*.class
+
+runSerial: $(CLASS_FILES)
+	java -cp bin MonteCarloMinimization
+runParallel: $(CLASS_FILES)
+	java -cp bin MonteCarloMinimizationParallel

@@ -10,7 +10,7 @@ import java.util.concurrent.RecursiveAction;
  */
 
 public class SearchParallel extends RecursiveAction {
-	private int id; // SearchParalleler identifier
+	private int id; // SearchParallel identifier
 	private int pos_row, pos_col; // Position in the grid
 	private int steps; // number of steps to end of SearchParallel
 	private boolean stopped; // Did the SearchParallel hit a previous trail?
@@ -100,7 +100,7 @@ public class SearchParallel extends RecursiveAction {
 
 	@Override
 	protected void compute() {
-		if ((hi - lo) <= 0.1 * num_searches) {
+		if ((hi - lo) <= 0.025 * num_searches) {
 			int local_min = Integer.MAX_VALUE;
 
 			for (int i = lo; i < hi; i++) {

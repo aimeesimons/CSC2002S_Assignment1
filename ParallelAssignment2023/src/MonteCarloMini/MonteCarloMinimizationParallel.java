@@ -48,13 +48,13 @@ class MonteCarloMinimizationParallel {
 			// System.exit(0);
 			// }
 			/* Read argument values */
-			rows = 6000;
-			columns = 6000;
-			xmin = -10000.0;
-			xmax = 20000.0;
-			ymin = -50000.0;
-			ymax = 60000.0;
-			searches_density = 0.6;
+			rows = 8000;
+			columns = 8000;
+			xmin = -1000.0;
+			xmax = 1000.0;
+			ymin = -1000.0;
+			ymax = 1000.0;
+			searches_density = 0.3;
 
 			if (DEBUG) {
 				/* Print arguments */
