@@ -1,8 +1,9 @@
 package MonteCarloMini;
 
-import java.security.PublicKey;
+// import java.security.PublicKey;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.RecursiveAction;
+import MonteCarloMini.Direction;
 
 /* M. Kuttel 2023
  * SearchParalleler class that lands somewhere random on the surfaces and 
@@ -22,14 +23,6 @@ public class SearchParallel extends RecursiveAction {
 	int num_searches;
 
 	private TerrainArea terrain;
-
-	enum Direction {
-		STAY_HERE,
-		LEFT,
-		RIGHT,
-		UP,
-		DOWN
-	}
 
 	public SearchParallel(int id, int pos_row, int pos_col, TerrainArea terrain) {
 		this.id = id;

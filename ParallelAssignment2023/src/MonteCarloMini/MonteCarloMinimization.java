@@ -43,13 +43,13 @@ class MonteCarloMinimization {
 		// System.exit(0);
 		// }
 		/* Read argument values */
-		rows = 8000;// Integer.parseInt(args[0]);
-		columns = 8000;// Integer.parseInt(args[1]);
+		rows = 800;// Integer.parseInt(args[0]);
+		columns = 800;// Integer.parseInt(args[1]);
 		xmin = -100.0;// Double.parseDouble(args[2]);
 		xmax = 100.0;// Double.parseDouble(args[3]);
 		ymin = -100.0;// Double.parseDouble(args[4]);
 		ymax = 100.0;// Double.parseDouble(args[5]);
-		searches_density = 0.6;// Double.parseDouble(args[6]);
+		searches_density = 0.2;// Double.parseDouble(args[6]);
 
 		if (DEBUG) {
 			/* Print arguments */

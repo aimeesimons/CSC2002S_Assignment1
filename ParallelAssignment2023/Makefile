@@ -1,31 +1,30 @@
 JAVAC=/usr/bin/javac
+JAVA=/usr/bin/java
 .SUFFIXES: .java .class
 
 
 SRCDIR=src/MonteCarloMini
-BINDIR=bin/MonteCarloMini
+BINDIR=bin
 
 .java.class:
-	$(JAVAC) $*.java
+	$(JAVAC) $< 
 
 $(BINDIR)/%.class:$(SRCDIR)/%.java
-	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
+	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) -sourcepath $(SRCDIR) $<
 
 
-CLASSES= \
-	PairedThreads.java\
-	TerrainArea.java SearchParallel.java\
-	MonteCarloMinimization.java\
-	MonteCarloMinimizationParallel.java
+CLASSES=PairedThreads.class Direction.class TerrainArea.class SearchParallel.class MonteCarloMinimization.class MonteCarloMinimizationParallel.class
 
-CLASS_FILES=$(CLASSES:%.java=$(BINDIR)/%.class)
-
+CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 default: $(CLASS_FILES)
-
 clean:
-	rm $(BINDIR)/*.class
+	rm $(BINDIR)/MonteCarloMini/*.class
 
 runSerial: $(CLASS_FILES)
-	java -cp bin MonteCarloMinimization
+	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimization
+
 runParallel: $(CLASS_FILES)
-	java -cp bin MonteCarloMinimizationParallel
+	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimizationParallel
+
+
+	
