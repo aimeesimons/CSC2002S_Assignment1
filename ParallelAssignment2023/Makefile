@@ -5,7 +5,6 @@ JAVA=/usr/bin/java
 
 SRCDIR=src/MonteCarloMini
 BINDIR=bin
-
 .java.class:
 	$(JAVAC) $< 
 
@@ -21,10 +20,10 @@ clean:
 	rm $(BINDIR)/MonteCarloMini/*.class
 
 runSerial: $(CLASS_FILES)
-	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimization
+	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimization $(ARGS)
 
 runParallel: $(CLASS_FILES)
-	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimizationParallel
+	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimizationParallel $(ARGS)
 
 
 	
