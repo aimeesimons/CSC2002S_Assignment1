@@ -4,9 +4,30 @@
 ## Getting started:
 There are 4 rules/targets established in the Makefile:
 * make: This compiles all the files and saves them in the bin/MonteCarloMini folder.
-* [make runSerial](#-make-runSerial:)
-* make runParallel" This compiles and runs the paralell solution
+* [make runSerial](##make-runSerial:): This compiles and runs the serial program
+* make runParallel: This compiles and runs the parallel solution
 * make clean: This removes the .class files from the bin/MonteCarloMini folder.
 
-# make runSerial:
-To run the serial program, command line arguments must be given. 
+## Input parameters:
+* rows, columns: the number of rows and columns in the discrete grid representing the function;
+* xmin, xmax, ymin, ymax: the boundaries of the rectangular area for the terrain;
+* searches density: number of searches per grid point\
+Input parameters are given in the form:
+```bash
+"rows columns xmin xmax ymin ymax serch density" 
+```
+
+## make runSerial:
+To run the serial program, type the following:
+```bash
+$ make runSerial ARGS="<rows> <columns> <xmin> <xmax> <ymin> <ymax> <search density>"
+```
+
+
+## make runParallel:
+Running the parallel program is exactly the same, however, the following is typed:
+```bash
+$ make runParallel ARGS="<rows> <columns> <xmin> <xmax> <ymin> <ymax> <search density>"
+```
+
+
