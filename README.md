@@ -3,10 +3,10 @@
 
 ## Getting started:
 There are 4 rules/targets established in the Makefile:
-* make: This compiles all the files and saves them in the bin/MonteCarloMini folder.
-* [make runSerial](##make-runSerial:): This compiles and runs the serial program
-* make runParallel: This compiles and runs the parallel solution
-* make clean: This removes the .class files from the bin/MonteCarloMini folder.
+* ```make```: This compiles all the files and saves them in the bin/MonteCarloMini folder.
+* ```make runSerial```: This compiles and runs the serial program
+* ```make runParallel```: This compiles and runs the parallel solution
+* ```make clean```: This removes the .class files from the bin/MonteCarloMini folder.
 
 ## Input parameters:
 * rows, columns: the number of rows and columns in the discrete grid representing the function;
