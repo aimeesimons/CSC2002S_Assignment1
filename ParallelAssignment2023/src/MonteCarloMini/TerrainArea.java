@@ -2,8 +2,6 @@ package MonteCarloMini;
 
 import java.lang.Math.*;
 
-import MonteCarloMini.Direction;
-
 public class TerrainArea {
 
 	public static final int PRECISION = 10000;

@@ -3,7 +3,7 @@ package MonteCarloMini;
 // import java.security.PublicKey;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.RecursiveAction;
-import MonteCarloMini.Direction;
+
 
 /* M. Kuttel 2023
  * SearchParalleler class that lands somewhere random on the surfaces and 

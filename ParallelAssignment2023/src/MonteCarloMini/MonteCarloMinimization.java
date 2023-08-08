@@ -1,6 +1,5 @@
 package MonteCarloMini;
 
-import java.util.ArrayList;
 /* Serial  program to use Monte Carlo method to 
  * locate a minimum in a function
  * This is the reference sequential version (Do not modify this code)
