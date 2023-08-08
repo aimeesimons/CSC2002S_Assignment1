@@ -9,9 +9,10 @@ There are 4 rules/targets established in the Makefile:
 * ```make clean```: This removes the .class files from the bin/MonteCarloMini folder.
 
 ## Input parameters:
-* rows, columns: the number of rows and columns in the discrete grid representing the function;
-* xmin, xmax, ymin, ymax: the boundaries of the rectangular area for the terrain;
+* rows, columns: the number of rows and columns in the discrete grid representing the function
+* xmin, xmax, ymin, ymax: the boundaries of the rectangular area for the terrain
 * searches density: number of searches per grid point\
+\
 Input parameters are given in the form:
 ```bash
 "rows columns xmin xmax ymin ymax serch density" 
