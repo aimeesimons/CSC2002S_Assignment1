@@ -1,5 +1,9 @@
 package MonteCarloMini;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 /* Serial  program to use Monte Carlo method to 
  * locate a minimum in a function
  * This is the reference sequential version (Do not modify this code)
@@ -25,7 +29,7 @@ class MonteCarloMinimization {
 		endTime = System.currentTimeMillis();
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 
 		int rows, columns; // grid size
 		double xmin, xmax, ymin, ymax; // x and y terrain limits
@@ -97,6 +101,14 @@ class MonteCarloMinimization {
 			terrain.print_heights();
 			terrain.print_visited();
 		}
+
+		FileWriter fw = new FileWriter(
+				"C:\\Users\\Aimee Simons\\Desktop\\2023\\Lectures\\Semester 2\\CSC2002S\\Assignments\\Assignment 1\\CSC2002S_Assignment1\\ParallelAssignment2023\\src\\MonteCarloMini\\timesSerial.txt",
+				true);
+		BufferedWriter bw = new BufferedWriter(fw);
+		PrintWriter pw = new PrintWriter(bw);
+		pw.printf("%d ms\n", endTime - startTime);
+		pw.close();
 
 		System.out.printf("Run parameters\n");
 		System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);

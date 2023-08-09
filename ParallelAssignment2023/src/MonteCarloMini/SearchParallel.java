@@ -4,7 +4,6 @@ package MonteCarloMini;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.RecursiveAction;
 
-
 /* M. Kuttel 2023
  * SearchParalleler class that lands somewhere random on the surfaces and 
  * then moves downhill, stopping at the local minimum.
@@ -93,7 +92,7 @@ public class SearchParallel extends RecursiveAction {
 
 	@Override
 	protected void compute() {
-		if ((hi - lo) <= 0.025 * num_searches) {
+		if ((hi - lo) <= 0.05 * num_searches) {
 			int local_min = Integer.MAX_VALUE;
 
 			for (int i = lo; i < hi; i++) {
@@ -103,8 +102,13 @@ public class SearchParallel extends RecursiveAction {
 					finder = i;
 
 				}
+				if (MonteCarloMinimizationParallel.DEBUG)
+					System.out.println("Search " + arr[i].getID() + " finished at  " + local_min + " in "
+							+ arr[i].getSteps());
 			}
-			Vals.add(new PairedThreads(local_min, finder));
+			if (finder != -1) {
+				Vals.add(new PairedThreads(local_min, finder));
+			}
 
 		} else {
 			int split = (int) ((hi + lo) / 2.0);
