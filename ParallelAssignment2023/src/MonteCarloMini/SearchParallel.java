@@ -92,7 +92,7 @@ public class SearchParallel extends RecursiveAction {
 
 	@Override
 	protected void compute() {
-		if ((hi - lo) <= 0.05 * num_searches) {
+		if ((hi - lo) <= 0.1 * num_searches) {
 			int local_min = Integer.MAX_VALUE;
 
 			for (int i = lo; i < hi; i++) {
@@ -102,9 +102,6 @@ public class SearchParallel extends RecursiveAction {
 					finder = i;
 
 				}
-				if (MonteCarloMinimizationParallel.DEBUG)
-					System.out.println("Search " + arr[i].getID() + " finished at  " + local_min + " in "
-							+ arr[i].getSteps());
 			}
 			if (finder != -1) {
 				Vals.add(new PairedThreads(local_min, finder));
