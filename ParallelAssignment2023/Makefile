@@ -13,16 +13,19 @@ $(BINDIR)/%.class:$(SRCDIR)/%.java
 
 
 CLASSES=PairedThreads.class Direction.class TerrainArea.class SearchParallel.class MonteCarloMinimization.class MonteCarloMinimizationParallel.class
+MAIN1 = MonteCarloMinimization.class
+MAIN2 = MonteCarloMinimizationParallel.class
 
 CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
+
 default: $(CLASS_FILES)
 clean:
 	rm $(BINDIR)/MonteCarloMini/*.class
 
-runSerial: $(CLASS_FILES)
+runSerial: $(MAIN1)
 	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimization $(ARGS)
 
-runParallel: $(CLASS_FILES)
+runParallel: $(MAIN2)
 	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimizationParallel $(ARGS)
 
 

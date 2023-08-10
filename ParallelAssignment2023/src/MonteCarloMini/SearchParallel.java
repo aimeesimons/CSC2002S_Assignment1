@@ -118,7 +118,7 @@ public class SearchParallel extends RecursiveAction {
 
 				}
 			}
-			if (finder != -1) {
+			if (finder != -1) {// if the finder is found to be -1, do not add it to the list
 				Vals.add(new PairedThreads(local_min, finder));
 			}
 

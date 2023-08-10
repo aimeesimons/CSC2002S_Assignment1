@@ -103,13 +103,6 @@ class MonteCarloMinimization {
 			terrain.print_visited();
 		}
 
-		FileWriter fw = new FileWriter(
-				"C:\\Users\\Aimee Simons\\Desktop\\2023\\Lectures\\Semester 2\\CSC2002S\\Assignments\\Assignment 1\\CSC2002S_Assignment1\\ParallelAssignment2023\\timeSerial.txt",
-				true);
-		BufferedWriter bw = new BufferedWriter(fw);
-		PrintWriter pw = new PrintWriter(bw);
-		pw.printf("%d ms\n", endTime - startTime);
-
 		System.out.printf("Run parameters\n");
 		System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
 		System.out.printf("\t x: [%f, %f], y: [%f, %f]\n", xmin, xmax, ymin, ymax);
