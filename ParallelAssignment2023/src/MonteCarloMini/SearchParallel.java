@@ -31,14 +31,25 @@ public class SearchParallel extends RecursiveAction {
 		this.stopped = false;
 	}
 
+	/**
+	 * This is the second constructor for SearchParallel and configures the
+	 * SearchParallel array to be split amongst several threads
+	 * 
+	 * @param arr                 the array of SearchParallel objects
+	 * @param lo                  the lowest index of the array
+	 * @param hi                  the highest index in the array
+	 * @param Values              the ConcurrentLinkedDeque which will be changed
+	 *                            during the compute function
+	 * @param num_SearchParallels the total number of searches
+	 */
 	public SearchParallel(SearchParallel[] arr, int lo, int hi, ConcurrentLinkedDeque<PairedThreads> Values,
-			int num_SearchParalleles) {
+			int num_SearchParallels) {
 		this.arr = arr;
 		this.lo = lo;
 		this.hi = hi;
 		this.Vals = Values;
 		this.finder = -1;
-		this.num_searches = num_SearchParalleles;
+		this.num_searches = num_SearchParallels;
 	}
 
 	public int find_valleys() {
@@ -90,9 +101,13 @@ public class SearchParallel extends RecursiveAction {
 		return stopped;
 	}
 
+	/**
+	 * This function is called when the fork/join pool is invoked and will split the
+	 * array amongst several threads.
+	 */
 	@Override
 	protected void compute() {
-		if ((hi - lo) <= 0.1 * num_searches) {
+		if ((hi - lo) <= 0.09 * num_searches) {
 			int local_min = Integer.MAX_VALUE;
 
 			for (int i = lo; i < hi; i++) {
@@ -107,13 +122,18 @@ public class SearchParallel extends RecursiveAction {
 				Vals.add(new PairedThreads(local_min, finder));
 			}
 
-		} else {
-			int split = (int) ((hi + lo) / 2.0);
-			SearchParallel left = new SearchParallel(arr, lo, split, Vals, num_searches);
-			SearchParallel right = new SearchParallel(arr, split, hi, Vals, num_searches);
-			left.fork();
-			right.compute();
-			left.join();
+		} else {// if hi-lo is found to be less than the sequential cutoff...
+			int split = (int) ((hi + lo) / 2.0);// finding the index of the middle element in the array.
+			SearchParallel left = new SearchParallel(arr, lo, split, Vals, num_searches);// creating a SearchParallel
+																							// object that contains the
+																							// 'left' half of the array
+			SearchParallel right = new SearchParallel(arr, split, hi, Vals, num_searches);// creating a SearchParallel
+																							// object that contains the
+																							// 'right' half of the array
+			left.fork();// 'forking' the left hand side
+			right.compute();// computing the rihgt hand side
+			left.join();// asking the left hand side to 'wait' for the completion of the right hand
+						// threads
 
 		}
 

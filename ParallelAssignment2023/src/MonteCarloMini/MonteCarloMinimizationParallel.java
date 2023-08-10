@@ -1,8 +1,5 @@
 package MonteCarloMini;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.PrintWriter;
 /* Serial  program to use Monte Carlo method to 
  * locate a minimum in a function
  * This is the reference sequential version (Do not modify this code)
@@ -32,7 +29,7 @@ class MonteCarloMinimizationParallel {
 	}
 
 	public static void main(String[] args) {
-		Values = new ConcurrentLinkedDeque<PairedThreads>();
+		Values = new ConcurrentLinkedDeque<PairedThreads>();// thread safe list to store PairedThreads objects
 
 		try {
 			int rows, columns; // grid size
@@ -45,18 +42,18 @@ class MonteCarloMinimizationParallel {
 			SearchParallel[] searches; // Array of searches
 			Random rand = new Random(); // the random number generator
 
-			// if (args.length != 7) {
-			// System.out.println("Incorrect number of command line arguments provided.");
-			// System.exit(0);
-			// }
+			if (args.length != 7) {
+				System.out.println("Incorrect number of command line arguments provided.");
+				System.exit(0);
+			}
 			/* Read argument values */
-			rows = 8000;// Integer.parseInt(args[0]);
-			columns = 8000;// Integer.parseInt(args[1]);
-			xmin = -100;// Double.parseDouble(args[2]);
-			xmax = 100;// Double.parseDouble(args[3]);
-			ymin = -100;// Double.parseDouble(args[4]);
-			ymax = 100;// Double.parseDouble(args[5]);
-			searches_density = 0.3; // Double.parseDouble(args[6]);
+			rows = Integer.parseInt(args[0]);
+			columns = Integer.parseInt(args[1]);
+			xmin = Double.parseDouble(args[2]);
+			xmax = Double.parseDouble(args[3]);
+			ymin = Double.parseDouble(args[4]);
+			ymax = Double.parseDouble(args[5]);
+			searches_density = Double.parseDouble(args[6]);
 
 			if (DEBUG) {
 				/* Print arguments */
@@ -89,12 +86,15 @@ class MonteCarloMinimizationParallel {
 			// int local_min = Integer.MAX_VALUE;
 			int finder = -1;
 
-			ForkJoinPool pool = new ForkJoinPool();
-			SearchParallel para = new SearchParallel(searches, 0, num_searches, Values, num_searches);
-			pool.invoke(para);
+			ForkJoinPool pool = new ForkJoinPool();// creating the fork/join pool
+			SearchParallel para = new SearchParallel(searches, 0, num_searches, Values, num_searches);// creating a
+																										// Thread using
+																										// the array of
+																										// searches.
+			pool.invoke(para);// invoking the pool
 
-			for (PairedThreads z : Values) {
-				if (z.min < min) {
+			for (PairedThreads z : Values) {// looping through the concurrentlinkedeque
+				if (z.min < min) {// finding the global minimum
 					min = z.min;
 					finder = z.index;
 				}
@@ -108,15 +108,6 @@ class MonteCarloMinimizationParallel {
 				terrain.print_heights();
 				terrain.print_visited();
 			}
-
-			FileWriter fw = new FileWriter(
-					"C:\\Users\\Aimee Simons\\Desktop\\2023\\Lectures\\Semester 2\\CSC2002S\\Assignments\\Assignment 1\\CSC2002S_Assignment1\\ParallelAssignment2023\\src\\MonteCarloMini\\timesParallel.txt",
-					true);
-			BufferedWriter bw = new BufferedWriter(fw);
-			PrintWriter pw = new PrintWriter(bw);
-			pw.printf("%d ms\n", endTime - startTime);
-			pw.close();
-
 			System.out.printf("Run parameters\n");
 			System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
 			System.out.printf("\t x: [%f, %f], y: [%f, %f]\n", xmin, xmax, ymin, ymax);

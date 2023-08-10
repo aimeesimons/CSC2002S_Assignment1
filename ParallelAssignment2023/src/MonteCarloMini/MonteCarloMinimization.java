@@ -2,6 +2,7 @@ package MonteCarloMini;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.io.FilterWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 /* Serial  program to use Monte Carlo method to 
@@ -49,8 +50,8 @@ class MonteCarloMinimization {
 		rows = Integer.parseInt(args[0]);
 		columns = Integer.parseInt(args[1]);
 		xmin = Double.parseDouble(args[2]);
-		xmax = Double.parseDouble(args[3]);
-		ymin = Double.parseDouble(args[4]);
+		xmax = // Double.parseDouble(args[3]);
+				ymin = Double.parseDouble(args[4]);
 		ymax = Double.parseDouble(args[5]);
 		searches_density = Double.parseDouble(args[6]);
 
@@ -103,12 +104,11 @@ class MonteCarloMinimization {
 		}
 
 		FileWriter fw = new FileWriter(
-				"C:\\Users\\Aimee Simons\\Desktop\\2023\\Lectures\\Semester 2\\CSC2002S\\Assignments\\Assignment 1\\CSC2002S_Assignment1\\ParallelAssignment2023\\src\\MonteCarloMini\\timesSerial.txt",
+				"C:\\Users\\Aimee Simons\\Desktop\\2023\\Lectures\\Semester 2\\CSC2002S\\Assignments\\Assignment 1\\CSC2002S_Assignment1\\ParallelAssignment2023\\timeSerial.txt",
 				true);
 		BufferedWriter bw = new BufferedWriter(fw);
 		PrintWriter pw = new PrintWriter(bw);
 		pw.printf("%d ms\n", endTime - startTime);
-		pw.close();
 
 		System.out.printf("Run parameters\n");
 		System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
