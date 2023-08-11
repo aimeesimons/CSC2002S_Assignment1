@@ -1,6 +1,7 @@
 package MonteCarloMini;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.FilterWriter;
 import java.io.IOException;
@@ -50,8 +51,8 @@ class MonteCarloMinimization {
 		rows = Integer.parseInt(args[0]);
 		columns = Integer.parseInt(args[1]);
 		xmin = Double.parseDouble(args[2]);
-		xmax = // Double.parseDouble(args[3]);
-				ymin = Double.parseDouble(args[4]);
+		xmax = Double.parseDouble(args[3]);
+		ymin = Double.parseDouble(args[4]);
 		ymax = Double.parseDouble(args[5]);
 		searches_density = Double.parseDouble(args[6]);
 
@@ -102,6 +103,14 @@ class MonteCarloMinimization {
 			terrain.print_heights();
 			terrain.print_visited();
 		}
+		FileWriter fw = new FileWriter("timesSerial.txt", true);
+		BufferedWriter bw = new BufferedWriter(fw);
+		PrintWriter pw = new PrintWriter(bw);
+		pw.printf("Rows: %d, Columns: %d\n", rows, columns);
+		pw.printf("Search density: %f (%d searches)\n", searches_density, num_searches);
+		pw.printf(" %d ms\n", endTime - startTime);
+		pw.println(" ");
+		pw.close();
 
 		System.out.printf("Run parameters\n");
 		System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);

@@ -22,10 +22,10 @@ default: $(CLASS_FILES)
 clean:
 	rm $(BINDIR)/MonteCarloMini/*.class
 
-runSerial: $(MAIN1)
+runSerial: default
 	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimization $(ARGS)
 
-runParallel: $(MAIN2)
+runParallel: default
 	java -cp $(BINDIR) MonteCarloMini.MonteCarloMinimizationParallel $(ARGS)
 
 
