@@ -1,9 +1,5 @@
 #! /usr/bin/bash
 
-for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.05";done
-for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.25";done
-for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.5";done
-
 
 for i in {1..5};do make runParallel ARGS="80 80 0 800 0 800 0.05";done
 for i in {1..5};do make runParallel ARGS="80 80 0 800 0 800 0.25";done
