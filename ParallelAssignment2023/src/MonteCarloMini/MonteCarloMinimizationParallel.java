@@ -111,14 +111,18 @@ class MonteCarloMinimizationParallel {
 				terrain.print_heights();
 				terrain.print_visited();
 			}
-			FileWriter fw = new FileWriter("timesParallel.txt", true);
-			BufferedWriter bw = new BufferedWriter(fw);
-			PrintWriter pw = new PrintWriter(bw);
-			pw.printf("Rows: %d, Columns: %d\n", rows, columns);
-			pw.printf("Search density: %f (%d searches)\n", searches_density, num_searches);
-			pw.printf(" %d ms\n", endTime - startTime);
-			pw.println(" ");
-			pw.close();
+			// FileWriter fw = new FileWriter("timesParallel.txt", true);
+			// BufferedWriter bw = new BufferedWriter(fw);
+			// PrintWriter pw = new PrintWriter(bw);
+			// pw.printf("Rows: %d, Columns: %d\n", rows, columns);
+			// pw.printf("Search density: %f (%d searches)\n", searches_density,
+			// num_searches);
+			// pw.printf(" %d ms\n", endTime - startTime);
+			// pw.println(" ");
+			// pw.close();
+			// This code was used to write the times to a textfile while the script was
+			// running
+
 			System.out.printf("Run parameters\n");
 			System.out.printf("\t Rows: %d, Columns: %d\n", rows, columns);
 			System.out.printf("\t x: [%f, %f], y: [%f, %f]\n", xmin, xmax, ymin, ymax);
