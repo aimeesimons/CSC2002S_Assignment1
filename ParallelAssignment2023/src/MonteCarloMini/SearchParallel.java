@@ -131,7 +131,7 @@ public class SearchParallel extends RecursiveAction {
 																							// object that contains the
 																							// 'right' half of the array
 			left.fork();// 'forking' the left hand side
-			right.compute();// computing the rihgt hand side
+			right.compute();// computing the right hand side
 			left.join();// asking the left hand side to 'wait' for the completion of the right hand
 						// threads
 

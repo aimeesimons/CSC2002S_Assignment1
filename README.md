@@ -4,8 +4,8 @@
 ## Getting started:
 There are 4 rules/targets established in the Makefile:
 * ```make```: This compiles all the files and saves them in the bin/MonteCarloMini folder.
-* ```make runSerial```: This runs the serial program. If any change are made to the code, ```make``` must be called first.
-* ```make runParallel```: This runs the parallel solution. If any change are made to the code, ```make``` must be called first.
+* ```make runSerial```: This compiles and runs the serial program. 
+* ```make runParallel```: This compiles and runs the parallel solution.
 * ```make clean```: This removes the .class files from the bin/MonteCarloMini folder.
 
 ## Input parameters:

@@ -1,5 +1,117 @@
 #! /usr/bin/bash
 
+for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.05";done
+for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.25";done
+for i in {1..5};do make runParallel ARGS="10 10 0 100 0 100 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="80 80 0 800 0 800 0.05";done
+for i in {1..5};do make runParallel ARGS="80 80 0 800 0 800 0.25";done
+for i in {1..5};do make runParallel ARGS="80 80 0 800 0 800 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="150 150 0 1500 0 1500 0.05";done
+for i in {1..5};do make runParallel ARGS="150 150 0 1500 0 1500 0.25";done
+for i in {1..5};do make runParallel ARGS="150 150 0 1500 0 1500 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="220 220 0 2200 0 2200 0.05";done
+for i in {1..5};do make runParallel ARGS="220 220 0 2200 0 2200 0.25";done
+for i in {1..5};do make runParallel ARGS="220 220 0 2200 0 2200 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="290 290 0 2900 0 2900 0.05";done
+for i in {1..5};do make runParallel ARGS="290 290 0 2900 0 2900 0.25";done
+for i in {1..5};do make runParallel ARGS="290 290 0 2900 0 2900 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="360 360 0 3600 0 3600 0.05";done
+for i in {1..5};do make runParallel ARGS="360 360 0 3600 0 3600 0.25";done
+for i in {1..5};do make runParallel ARGS="360 360 0 3600 0 3600 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="430 430 0 4300 0 4300 0.05";done
+for i in {1..5};do make runParallel ARGS="430 430 0 4300 0 4300 0.25";done
+for i in {1..5};do make runParallel ARGS="430 430 0 4300 0 4300 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="500 500 0 5000 0 5000 0.05";done
+for i in {1..5};do make runParallel ARGS="500 500 0 5000 0 5000 0.25";done
+for i in {1..5};do make runParallel ARGS="500 500 0 5000 0 5000 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="570 570 0 5700 0 5700 0.05";done
+for i in {1..5};do make runParallel ARGS="570 570 0 5700 0 5700 0.25";done
+for i in {1..5};do make runParallel ARGS="570 570 0 5700 0 5700 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="640 640 0 6400 0 6400 0.05";done
+for i in {1..5};do make runParallel ARGS="640 640 0 6400 0 6400 0.25";done
+for i in {1..5};do make runParallel ARGS="640 640 0 6400 0 6400 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="710 710 0 7100 0 7100 0.05";done
+for i in {1..5};do make runParallel ARGS="710 710 0 7100 0 7100 0.25";done
+for i in {1..5};do make runParallel ARGS="710 710 0 7100 0 7100 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="780 780 0 7800 0 7800 0.05";done
+for i in {1..5};do make runParallel ARGS="780 780 0 7800 0 7800 0.25";done
+for i in {1..5};do make runParallel ARGS="780 780 0 7800 0 7800 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="850 850 0 8500 0 8500 0.05";done
+for i in {1..5};do make runParallel ARGS="850 850 0 8500 0 8500 0.25";done
+for i in {1..5};do make runParallel ARGS="850 850 0 8500 0 8500 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="920 920 0 9200 0 9200 0.05";done
+for i in {1..5};do make runParallel ARGS="920 920 0 9200 0 9200 0.25";done
+for i in {1..5};do make runParallel ARGS="920 920 0 9200 0 9200 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="990 990 0 9900 0 9900 0.05";done
+for i in {1..5};do make runParallel ARGS="990 990 0 9900 0 9900 0.25";done
+for i in {1..5};do make runParallel ARGS="990 990 0 9900 0 9900 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1060 1060 0 10600 0 10600 0.05";done
+for i in {1..5};do make runParallel ARGS="1060 1060 0 10600 0 10600 0.25";done
+for i in {1..5};do make runParallel ARGS="1060 1060 0 10600 0 10600 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1130 1130 0 11300 0 11300 0.05";done
+for i in {1..5};do make runParallel ARGS="1130 1130 0 11300 0 11300 0.25";done
+for i in {1..5};do make runParallel ARGS="1130 1130 0 11300 0 11300 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1200 1200 0 12000 0 12000 0.05";done
+for i in {1..5};do make runParallel ARGS="1200 1200 0 12000 0 12000 0.25";done
+for i in {1..5};do make runParallel ARGS="1200 1200 0 12000 0 12000 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1270 1270 0 12700 0 12700 0.05";done
+for i in {1..5};do make runParallel ARGS="1270 1270 0 12700 0 12700 0.25";done
+for i in {1..5};do make runParallel ARGS="1270 1270 0 12700 0 12700 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1340 1340 0 13400 0 13400 0.05";done
+for i in {1..5};do make runParallel ARGS="1340 1340 0 13400 0 13400 0.25";done
+for i in {1..5};do make runParallel ARGS="1340 1340 0 13400 0 13400 0.5";done
+
+
+
+for i in {1..5};do make runParallel ARGS="1410 1410 0 14100 0 14100 0.05";done
+for i in {1..5};do make runParallel ARGS="1410 1410 0 14100 0 14100 0.25";done
+for i in {1..5};do make runParallel ARGS="1410 1410 0 14100 0 14100 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1480 1480 0 14800 0 14800 0.05";done
+for i in {1..5};do make runParallel ARGS="1480 1480 0 14800 0 14800 0.25";done
+for i in {1..5};do make runParallel ARGS="1480 1480 0 14800 0 14800 0.5";done
+
+
+for i in {1..5};do make runParallel ARGS="1550 1550 0 151900 0 151900 0.05";done
 for i in {1..5};do make runParallel ARGS="1550 1550 0 151900 0 151900 0.25";done
 for i in {1..5};do make runParallel ARGS="1550 1550 0 151900 0 151900 0.5";done
 
@@ -251,217 +363,3 @@ for i in {1..5};do make runParallel ARGS="4980 4980 0 49800 0 49800 0.5";done
 for i in {1..5};do make runParallel ARGS="5050 5050 0 505000 0 505000 0.05";done
 for i in {1..5};do make runParallel ARGS="5050 5050 0 505000 0 505000 0.25";done
 for i in {1..5};do make runParallel ARGS="5050 5050 0 505000 0 505000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5120 5120 0 51200 0 51200 0.05";done
-for i in {1..5};do make runParallel ARGS="5120 5120 0 51200 0 51200 0.25";done
-for i in {1..5};do make runParallel ARGS="5120 5120 0 51200 0 51200 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5190 5190 0 51900 0 51900 0.05";done
-for i in {1..5};do make runParallel ARGS="5190 5190 0 51900 0 51900 0.25";done
-for i in {1..5};do make runParallel ARGS="5190 5190 0 51900 0 51900 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5260 5260 0 55400 0 55400 0.05";done
-for i in {1..5};do make runParallel ARGS="5260 5260 0 55400 0 55400 0.25";done
-for i in {1..5};do make runParallel ARGS="5260 5260 0 55400 0 55400 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5330 5330 0 53300 0 53300 0.05";done
-for i in {1..5};do make runParallel ARGS="5330 5330 0 53300 0 53300 0.25";done
-for i in {1..5};do make runParallel ARGS="5330 5330 0 53300 0 53300 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5400 5400 0 54000 0 54000 0.05";done
-for i in {1..5};do make runParallel ARGS="5400 5400 0 54000 0 54000 0.25";done
-for i in {1..5};do make runParallel ARGS="5400 5400 0 5400 0 5400 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5470 5470 0 54700 0 54700 0.05";done
-for i in {1..5};do make runParallel ARGS="5470 5470 0 54700 0 54700 0.25";done
-for i in {1..5};do make runParallel ARGS="5470 5470 0 54700 0 54700 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5540 5540 0 55400 0 55400 0.05";done
-for i in {1..5};do make runParallel ARGS="5540 5540 0 55400 0 55400 0.25";done
-for i in {1..5};do make runParallel ARGS="5540 5540 0 55400 0 55400 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5610 5610 0 56100 0 56100 0.05";done
-for i in {1..5};do make runParallel ARGS="5610 5610 0 56100 0 56100 0.25";done
-for i in {1..5};do make runParallel ARGS="5610 5610 0 56100 0 56100 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5680 5680 0 56800 0 56800 0.05";done
-for i in {1..5};do make runParallel ARGS="5680 5680 0 56800 0 56800 0.25";done
-for i in {1..5};do make runParallel ARGS="5680 5680 0 56800 0 56800 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5750 5750 0 575000 0 575000 0.05";done
-for i in {1..5};do make runParallel ARGS="5750 5750 0 575000 0 575000 0.25";done
-for i in {1..5};do make runParallel ARGS="5750 5750 0 575000 0 575000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5820 5820 0 58200 0 58200 0.05";done
-for i in {1..5};do make runParallel ARGS="5820 5820 0 58200 0 58200 0.25";done
-for i in {1..5};do make runParallel ARGS="5820 5820 0 58200 0 58200 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5890 5890 0 58900 0 58900 0.05";done
-for i in {1..5};do make runParallel ARGS="5890 5890 0 58900 0 58900 0.25";done
-for i in {1..5};do make runParallel ARGS="5890 5890 0 58900 0 58900 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="5960 5960 0 59600 0 59600 0.05";done
-for i in {1..5};do make runParallel ARGS="5960 5960 0 59600 0 59600 0.25";done
-for i in {1..5};do make runParallel ARGS="5960 5960 0 59600 0 59600 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6030 6030 0 60300 0 60300 0.05";done
-for i in {1..5};do make runParallel ARGS="6030 6030 0 60300 0 60300 0.25";done
-for i in {1..5};do make runParallel ARGS="6030 6030 0 60300 0 60300 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6100 6100 0 61000 0 61000 0.05";done
-for i in {1..5};do make runParallel ARGS="6100 6100 0 61000 0 61000 0.25";done
-for i in {1..5};do make runParallel ARGS="6100 6100 0 61000 0 61000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6170 6170 0 61700 0 61700 0.05";done
-for i in {1..5};do make runParallel ARGS="6170 6170 0 61700 0 61700 0.25";done
-for i in {1..5};do make runParallel ARGS="6170 6170 0 61700 0 61700 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6240 6240 0 62400 0 62400 0.05";done
-for i in {1..5};do make runParallel ARGS="6240 6240 0 62400 0 62400 0.25";done
-for i in {1..5};do make runParallel ARGS="6240 6240 0 62400 0 62400 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6310 6310 0 63100 0 63100 0.05";done
-for i in {1..5};do make runParallel ARGS="6310 6310 0 63100 0 63100 0.25";done
-for i in {1..5};do make runParallel ARGS="6310 6310 0 63100 0 63100 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6380 6380 0 63800 0 63800 0.05";done
-for i in {1..5};do make runParallel ARGS="6380 6380 0 63800 0 63800 0.25";done
-for i in {1..5};do make runParallel ARGS="6380 6380 0 63800 0 63800 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6450 6450 0 645000 0 645000 0.05";done
-for i in {1..5};do make runParallel ARGS="6450 6450 0 645000 0 645000 0.25";done
-for i in {1..5};do make runParallel ARGS="6450 6450 0 645000 0 645000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6520 6520 0 65200 0 65200 0.05";done
-for i in {1..5};do make runParallel ARGS="6520 6520 0 65200 0 65200 0.25";done
-for i in {1..5};do make runParallel ARGS="6520 6520 0 65200 0 65200 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6590 6590 0 65900 0 65900 0.05";done
-for i in {1..5};do make runParallel ARGS="6590 6590 0 65900 0 65900 0.25";done
-for i in {1..5};do make runParallel ARGS="6590 6590 0 65900 0 65900 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6660 6660 0 66600 0 66600 0.05";done
-for i in {1..5};do make runParallel ARGS="6660 6660 0 66600 0 66600 0.25";done
-for i in {1..5};do make runParallel ARGS="6660 6660 0 66600 0 66600 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6730 6730 0 67300 0 67300 0.05";done
-for i in {1..5};do make runParallel ARGS="6730 6730 0 67300 0 67300 0.25";done
-for i in {1..5};do make runParallel ARGS="6730 6730 0 67300 0 67300 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6800 6800 0 68000 0 68000 0.05";done
-for i in {1..5};do make runParallel ARGS="6800 6800 0 68000 0 68000 0.25";done
-for i in {1..5};do make runParallel ARGS="6800 6800 0 6800 0 6800 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6870 6870 0 68700 0 68700 0.05";done
-for i in {1..5};do make runParallel ARGS="6870 6870 0 68700 0 68700 0.25";done
-for i in {1..5};do make runParallel ARGS="6870 6870 0 68700 0 68700 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="6940 6940 0 69400 0 69400 0.05";done
-for i in {1..5};do make runParallel ARGS="6940 6940 0 69400 0 69400 0.25";done
-for i in {1..5};do make runParallel ARGS="6940 6940 0 69400 0 69400 0.5";done
-
-for i in {1..5};do make runParallel ARGS="7010 7010 0 70100 0 70100 0.05";done
-for i in {1..5};do make runParallel ARGS="7010 7010 0 70100 0 70100 0.25";done
-for i in {1..5};do make runParallel ARGS="7010 7010 0 70100 0 70100 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7080 7080 0 70800 0 70800 0.05";done
-for i in {1..5};do make runParallel ARGS="7080 7080 0 70800 0 70800 0.25";done
-for i in {1..5};do make runParallel ARGS="7080 7080 0 70800 0 70800 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7150 7150 0 715000 0 715000 0.05";done
-for i in {1..5};do make runParallel ARGS="7150 7150 0 715000 0 715000 0.25";done
-for i in {1..5};do make runParallel ARGS="7150 7150 0 715000 0 715000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7220 7220 0 72200 0 72200 0.05";done
-for i in {1..5};do make runParallel ARGS="7220 7220 0 72200 0 72200 0.25";done
-for i in {1..5};do make runParallel ARGS="7220 7220 0 72200 0 72200 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7290 7290 0 72900 0 72900 0.05";done
-for i in {1..5};do make runParallel ARGS="7290 7290 0 72900 0 72900 0.25";done
-for i in {1..5};do make runParallel ARGS="7290 7290 0 72900 0 72900 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7360 7360 0 73600 0 73600 0.05";done
-for i in {1..5};do make runParallel ARGS="7360 7360 0 73600 0 73600 0.25";done
-for i in {1..5};do make runParallel ARGS="7360 7360 0 73600 0 73600 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7430 7430 0 74300 0 74300 0.05";done
-for i in {1..5};do make runParallel ARGS="7430 7430 0 74300 0 74300 0.25";done
-for i in {1..5};do make runParallel ARGS="7430 7430 0 74300 0 74300 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7500 7500 0 75000 0 75000 0.05";done
-for i in {1..5};do make runParallel ARGS="7500 7500 0 75000 0 75000 0.25";done
-for i in {1..5};do make runParallel ARGS="7500 7500 0 75000 0 75000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7570 7570 0 75700 0 75700 0.05";done
-for i in {1..5};do make runParallel ARGS="7570 7570 0 75700 0 75700 0.25";done
-for i in {1..5};do make runParallel ARGS="7570 7570 0 75700 0 75700 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7640 7640 0 76400 0 76400 0.05";done
-for i in {1..5};do make runParallel ARGS="7640 7640 0 76400 0 76400 0.25";done
-for i in {1..5};do make runParallel ARGS="7640 7640 0 76400 0 76400 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7710 7710 0 77100 0 77100 0.05";done
-for i in {1..5};do make runParallel ARGS="7710 7710 0 77100 0 77100 0.25";done
-for i in {1..5};do make runParallel ARGS="7710 7710 0 77100 0 77100 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7780 7780 0 77800 0 77800 0.05";done
-for i in {1..5};do make runParallel ARGS="7780 7780 0 77800 0 77800 0.25";done
-for i in {1..5};do make runParallel ARGS="7780 7780 0 77800 0 77800 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7850 7850 0 785000 0 785000 0.05";done
-for i in {1..5};do make runParallel ARGS="7850 7850 0 785000 0 785000 0.25";done
-for i in {1..5};do make runParallel ARGS="7850 7850 0 785000 0 785000 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7920 7920 0 79200 0 79200 0.05";done
-for i in {1..5};do make runParallel ARGS="7920 7920 0 79200 0 79200 0.25";done
-for i in {1..5};do make runParallel ARGS="7920 7920 0 79200 0 79200 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="7990 7990 0 79900 0 79900 0.05";done
-for i in {1..5};do make runParallel ARGS="7990 7990 0 79900 0 79900 0.25";done
-for i in {1..5};do make runParallel ARGS="7990 7990 0 79900 0 79900 0.5";done
-
-
-for i in {1..5};do make runParallel ARGS="8060 8060 0 80600 0 80600 0.05";done
-for i in {1..5};do make runParallel ARGS="8060 8060 0 80600 0 80600 0.25";done
-for i in {1..5};do make runParallel ARGS="8060 8060 0 80600 0 80600 0.5";done
