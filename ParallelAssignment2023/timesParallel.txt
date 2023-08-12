@@ -1,0 +1,5964 @@
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 367 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.250000 (600625 searches)
+ 163 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 387 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.250000 (600625 searches)
+ 163 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 571 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 530 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.250000 (600625 searches)
+ 170 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 508 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.250000 (600625 searches)
+ 162 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 614 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.500000 (1201250 searches)
+ 218 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 470 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.500000 (1201250 searches)
+ 227 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 150 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.500000 (1201250 searches)
+ 246 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 153 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.500000 (1201250 searches)
+ 213 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 150 ms
+ 
+Rows: 1550, Columns: 1550
+Search density: 0.500000 (1201250 searches)
+ 232 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 164 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.050000 (131220 searches)
+ 119 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 152 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.050000 (131220 searches)
+ 90 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 425 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.050000 (131220 searches)
+ 84 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 367 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.050000 (131220 searches)
+ 109 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 445 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.050000 (131220 searches)
+ 116 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 394 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.250000 (656100 searches)
+ 167 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 420 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.250000 (656100 searches)
+ 145 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 627 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.250000 (656100 searches)
+ 156 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 539 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.250000 (656100 searches)
+ 155 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.250000 (656100 searches)
+ 174 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 505 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.500000 (1312200 searches)
+ 236 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 527 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.500000 (1312200 searches)
+ 215 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 564 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.500000 (1312200 searches)
+ 238 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 224 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.500000 (1312200 searches)
+ 217 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 204 ms
+ 
+Rows: 1620, Columns: 1620
+Search density: 0.500000 (1312200 searches)
+ 249 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 175 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.050000 (142805 searches)
+ 104 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 175 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.050000 (142805 searches)
+ 103 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 193 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.050000 (142805 searches)
+ 99 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 449 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.050000 (142805 searches)
+ 85 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 452 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.050000 (142805 searches)
+ 100 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 362 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.250000 (714025 searches)
+ 176 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 405 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.250000 (714025 searches)
+ 195 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 484 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.250000 (714025 searches)
+ 182 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 569 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.250000 (714025 searches)
+ 179 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 632 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.250000 (714025 searches)
+ 188 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 564 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.500000 (1428050 searches)
+ 216 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 627 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.500000 (1428050 searches)
+ 236 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 629 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.500000 (1428050 searches)
+ 264 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 180 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.500000 (1428050 searches)
+ 230 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 158 ms
+ 
+Rows: 1690, Columns: 1690
+Search density: 0.500000 (1428050 searches)
+ 236 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 166 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.050000 (154880 searches)
+ 102 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 169 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.050000 (154880 searches)
+ 99 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 194 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.050000 (154880 searches)
+ 94 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 407 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.050000 (154880 searches)
+ 124 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.050000 (154880 searches)
+ 81 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 401 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.250000 (774400 searches)
+ 233 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 420 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.250000 (774400 searches)
+ 211 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 408 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.250000 (774400 searches)
+ 206 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 428 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.250000 (774400 searches)
+ 220 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 580 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.250000 (774400 searches)
+ 198 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 543 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.500000 (1548800 searches)
+ 260 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 543 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.500000 (1548800 searches)
+ 273 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 614 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.500000 (1548800 searches)
+ 317 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 569 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.500000 (1548800 searches)
+ 242 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 164 ms
+ 
+Rows: 1760, Columns: 1760
+Search density: 0.500000 (1548800 searches)
+ 268 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 195 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.050000 (167445 searches)
+ 112 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 160 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.050000 (167445 searches)
+ 102 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 194 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.050000 (167445 searches)
+ 105 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 179 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.050000 (167445 searches)
+ 96 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 460 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.050000 (167445 searches)
+ 91 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 480 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.250000 (837225 searches)
+ 250 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 378 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.250000 (837225 searches)
+ 192 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 427 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.250000 (837225 searches)
+ 199 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 446 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.250000 (837225 searches)
+ 209 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 625 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.250000 (837225 searches)
+ 209 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.500000 (1674450 searches)
+ 441 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 681 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.500000 (1674450 searches)
+ 328 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 585 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.500000 (1674450 searches)
+ 310 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 560 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.500000 (1674450 searches)
+ 300 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 579 ms
+ 
+Rows: 1830, Columns: 1830
+Search density: 0.500000 (1674450 searches)
+ 291 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 359 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.050000 (180500 searches)
+ 99 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 283 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.050000 (180500 searches)
+ 99 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 286 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.050000 (180500 searches)
+ 120 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 317 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.050000 (180500 searches)
+ 123 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 290 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.050000 (180500 searches)
+ 135 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 739 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.250000 (902500 searches)
+ 234 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 671 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.250000 (902500 searches)
+ 236 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 631 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.250000 (902500 searches)
+ 226 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 647 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.250000 (902500 searches)
+ 228 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 668 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.250000 (902500 searches)
+ 235 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 797 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.500000 (1805000 searches)
+ 270 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 776 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.500000 (1805000 searches)
+ 275 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 757 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.500000 (1805000 searches)
+ 280 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 723 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.500000 (1805000 searches)
+ 315 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 779 ms
+ 
+Rows: 1900, Columns: 1900
+Search density: 0.500000 (1805000 searches)
+ 302 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 191 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.050000 (194045 searches)
+ 102 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 182 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.050000 (194045 searches)
+ 88 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 194 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.050000 (194045 searches)
+ 100 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 222 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.050000 (194045 searches)
+ 116 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.050000 (194045 searches)
+ 86 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 180 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.250000 (970225 searches)
+ 223 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.250000 (970225 searches)
+ 228 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.250000 (970225 searches)
+ 223 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.250000 (970225 searches)
+ 232 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.250000 (970225 searches)
+ 233 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.500000 (1940450 searches)
+ 263 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.500000 (1940450 searches)
+ 267 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.500000 (1940450 searches)
+ 275 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.500000 (1940450 searches)
+ 259 ms
+ 
+Rows: 1970, Columns: 1970
+Search density: 0.500000 (1940450 searches)
+ 256 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.050000 (208080 searches)
+ 100 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.050000 (208080 searches)
+ 95 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.050000 (208080 searches)
+ 96 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.050000 (208080 searches)
+ 102 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.050000 (208080 searches)
+ 97 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.250000 (1040400 searches)
+ 213 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.250000 (1040400 searches)
+ 236 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.250000 (1040400 searches)
+ 268 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.250000 (1040400 searches)
+ 285 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.250000 (1040400 searches)
+ 228 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.500000 (2080800 searches)
+ 295 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.500000 (2080800 searches)
+ 285 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.500000 (2080800 searches)
+ 301 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.500000 (2080800 searches)
+ 279 ms
+ 
+Rows: 2040, Columns: 2040
+Search density: 0.500000 (2080800 searches)
+ 293 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.050000 (222605 searches)
+ 98 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.050000 (222605 searches)
+ 97 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.050000 (222605 searches)
+ 127 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.050000 (222605 searches)
+ 97 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.050000 (222605 searches)
+ 100 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.250000 (1113025 searches)
+ 228 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.250000 (1113025 searches)
+ 226 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.250000 (1113025 searches)
+ 234 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.250000 (1113025 searches)
+ 241 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.250000 (1113025 searches)
+ 232 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.500000 (2226050 searches)
+ 325 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.500000 (2226050 searches)
+ 349 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.500000 (2226050 searches)
+ 314 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.500000 (2226050 searches)
+ 317 ms
+ 
+Rows: 2110, Columns: 2110
+Search density: 0.500000 (2226050 searches)
+ 279 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.050000 (237620 searches)
+ 128 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.050000 (237620 searches)
+ 137 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.050000 (237620 searches)
+ 131 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.050000 (237620 searches)
+ 124 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.050000 (237620 searches)
+ 113 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.250000 (1188100 searches)
+ 246 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.250000 (1188100 searches)
+ 249 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.250000 (1188100 searches)
+ 273 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.250000 (1188100 searches)
+ 269 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.250000 (1188100 searches)
+ 244 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.500000 (2376200 searches)
+ 311 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.500000 (2376200 searches)
+ 332 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.500000 (2376200 searches)
+ 331 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.500000 (2376200 searches)
+ 320 ms
+ 
+Rows: 2180, Columns: 2180
+Search density: 0.500000 (2376200 searches)
+ 322 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.050000 (253125 searches)
+ 199 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.050000 (253125 searches)
+ 164 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.050000 (253125 searches)
+ 170 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.050000 (253125 searches)
+ 186 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.050000 (253125 searches)
+ 205 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.250000 (1265625 searches)
+ 324 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.250000 (1265625 searches)
+ 330 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.250000 (1265625 searches)
+ 342 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.250000 (1265625 searches)
+ 324 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.250000 (1265625 searches)
+ 341 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.500000 (2531250 searches)
+ 405 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.500000 (2531250 searches)
+ 376 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.500000 (2531250 searches)
+ 379 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.500000 (2531250 searches)
+ 372 ms
+ 
+Rows: 2250, Columns: 2250
+Search density: 0.500000 (2531250 searches)
+ 394 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.050000 (269120 searches)
+ 125 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.050000 (269120 searches)
+ 125 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.050000 (269120 searches)
+ 123 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.050000 (269120 searches)
+ 112 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.050000 (269120 searches)
+ 111 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.250000 (1345600 searches)
+ 285 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.250000 (1345600 searches)
+ 275 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.250000 (1345600 searches)
+ 271 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.250000 (1345600 searches)
+ 275 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.250000 (1345600 searches)
+ 270 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.500000 (2691200 searches)
+ 429 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.500000 (2691200 searches)
+ 393 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.500000 (2691200 searches)
+ 424 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.500000 (2691200 searches)
+ 421 ms
+ 
+Rows: 2320, Columns: 2320
+Search density: 0.500000 (2691200 searches)
+ 434 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.050000 (285605 searches)
+ 130 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.050000 (285605 searches)
+ 122 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.050000 (285605 searches)
+ 119 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.050000 (285605 searches)
+ 125 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.050000 (285605 searches)
+ 128 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.250000 (1428025 searches)
+ 278 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.250000 (1428025 searches)
+ 281 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.250000 (1428025 searches)
+ 278 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.250000 (1428025 searches)
+ 307 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.250000 (1428025 searches)
+ 301 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.500000 (2856050 searches)
+ 402 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.500000 (2856050 searches)
+ 402 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.500000 (2856050 searches)
+ 379 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.500000 (2856050 searches)
+ 385 ms
+ 
+Rows: 2390, Columns: 2390
+Search density: 0.500000 (2856050 searches)
+ 376 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.050000 (302580 searches)
+ 129 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.050000 (302580 searches)
+ 142 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.050000 (302580 searches)
+ 146 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.050000 (302580 searches)
+ 146 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.050000 (302580 searches)
+ 137 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.250000 (1512900 searches)
+ 303 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.250000 (1512900 searches)
+ 311 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.250000 (1512900 searches)
+ 334 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.250000 (1512900 searches)
+ 429 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.250000 (1512900 searches)
+ 289 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.500000 (3025800 searches)
+ 383 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.500000 (3025800 searches)
+ 402 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.500000 (3025800 searches)
+ 393 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.500000 (3025800 searches)
+ 377 ms
+ 
+Rows: 2460, Columns: 2460
+Search density: 0.500000 (3025800 searches)
+ 411 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.050000 (320045 searches)
+ 162 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.050000 (320045 searches)
+ 168 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.050000 (320045 searches)
+ 151 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.050000 (320045 searches)
+ 131 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.050000 (320045 searches)
+ 153 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.250000 (1600225 searches)
+ 369 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.250000 (1600225 searches)
+ 349 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.250000 (1600225 searches)
+ 400 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.250000 (1600225 searches)
+ 437 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.250000 (1600225 searches)
+ 457 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.500000 (3200450 searches)
+ 427 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.500000 (3200450 searches)
+ 390 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.500000 (3200450 searches)
+ 441 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.500000 (3200450 searches)
+ 394 ms
+ 
+Rows: 2530, Columns: 2530
+Search density: 0.500000 (3200450 searches)
+ 455 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.050000 (338000 searches)
+ 230 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.050000 (338000 searches)
+ 160 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.050000 (338000 searches)
+ 149 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.050000 (338000 searches)
+ 171 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.050000 (338000 searches)
+ 338 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 336 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 361 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 429 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 398 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.250000 (1690000 searches)
+ 501 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 458 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 435 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 682 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 680 ms
+ 
+Rows: 2600, Columns: 2600
+Search density: 0.500000 (3380000 searches)
+ 484 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 137 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 311 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 199 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 246 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.050000 (356445 searches)
+ 323 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 514 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 539 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 437 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 440 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.250000 (1782225 searches)
+ 768 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 620 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 457 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 704 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 656 ms
+ 
+Rows: 2670, Columns: 2670
+Search density: 0.500000 (3564450 searches)
+ 558 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 147 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 176 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 189 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 204 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.050000 (375380 searches)
+ 157 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 390 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 363 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 344 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 358 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.250000 (1876900 searches)
+ 342 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 827 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 546 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 874 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 1030 ms
+ 
+Rows: 2740, Columns: 2740
+Search density: 0.500000 (3753800 searches)
+ 516 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 170 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 167 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 178 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 165 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.050000 (394805 searches)
+ 148 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 378 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 397 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 376 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 373 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.250000 (1974025 searches)
+ 357 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 498 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 538 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 560 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 526 ms
+ 
+Rows: 2810, Columns: 2810
+Search density: 0.500000 (3948050 searches)
+ 476 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 155 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 157 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 179 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 161 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.050000 (414720 searches)
+ 157 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 380 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 404 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 438 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 374 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.250000 (2073600 searches)
+ 481 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 746 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 504 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 663 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 576 ms
+ 
+Rows: 2880, Columns: 2880
+Search density: 0.500000 (4147200 searches)
+ 511 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 294 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 280 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 246 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 252 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.050000 (435125 searches)
+ 277 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 618 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 572 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 707 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 965 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.250000 (2175625 searches)
+ 640 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 698 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 645 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 680 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 659 ms
+ 
+Rows: 2950, Columns: 2950
+Search density: 0.500000 (4351250 searches)
+ 691 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 178 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 176 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 177 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 175 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.050000 (456020 searches)
+ 180 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.250000 (2280100 searches)
+ 522 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.250000 (2280100 searches)
+ 480 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.250000 (2280100 searches)
+ 495 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.250000 (2280100 searches)
+ 478 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.250000 (2280100 searches)
+ 470 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.500000 (4560200 searches)
+ 564 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.500000 (4560200 searches)
+ 675 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.500000 (4560200 searches)
+ 789 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.500000 (4560200 searches)
+ 793 ms
+ 
+Rows: 3020, Columns: 3020
+Search density: 0.500000 (4560200 searches)
+ 596 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.050000 (477405 searches)
+ 216 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.050000 (477405 searches)
+ 171 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.050000 (477405 searches)
+ 177 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.050000 (477405 searches)
+ 203 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.050000 (477405 searches)
+ 184 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.250000 (2387025 searches)
+ 452 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.250000 (2387025 searches)
+ 472 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.250000 (2387025 searches)
+ 438 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.250000 (2387025 searches)
+ 477 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.250000 (2387025 searches)
+ 425 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.500000 (4774050 searches)
+ 585 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.500000 (4774050 searches)
+ 626 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.500000 (4774050 searches)
+ 628 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.500000 (4774050 searches)
+ 578 ms
+ 
+Rows: 3090, Columns: 3090
+Search density: 0.500000 (4774050 searches)
+ 579 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.050000 (499280 searches)
+ 190 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.050000 (499280 searches)
+ 168 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.050000 (499280 searches)
+ 194 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.050000 (499280 searches)
+ 200 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.050000 (499280 searches)
+ 189 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.250000 (2496400 searches)
+ 472 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.250000 (2496400 searches)
+ 483 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.250000 (2496400 searches)
+ 489 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.250000 (2496400 searches)
+ 491 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.250000 (2496400 searches)
+ 461 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.500000 (4992800 searches)
+ 662 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.500000 (4992800 searches)
+ 697 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.500000 (4992800 searches)
+ 666 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.500000 (4992800 searches)
+ 669 ms
+ 
+Rows: 3160, Columns: 3160
+Search density: 0.500000 (4992800 searches)
+ 662 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.050000 (521645 searches)
+ 211 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.050000 (521645 searches)
+ 188 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.050000 (521645 searches)
+ 183 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.050000 (521645 searches)
+ 193 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.050000 (521645 searches)
+ 218 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.250000 (2608225 searches)
+ 515 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.250000 (2608225 searches)
+ 505 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.250000 (2608225 searches)
+ 529 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.250000 (2608225 searches)
+ 499 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.250000 (2608225 searches)
+ 458 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.500000 (5216450 searches)
+ 700 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.500000 (5216450 searches)
+ 634 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.500000 (5216450 searches)
+ 628 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.500000 (5216450 searches)
+ 718 ms
+ 
+Rows: 3230, Columns: 3230
+Search density: 0.500000 (5216450 searches)
+ 733 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.050000 (544500 searches)
+ 217 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.050000 (544500 searches)
+ 219 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.050000 (544500 searches)
+ 242 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.050000 (544500 searches)
+ 370 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.050000 (544500 searches)
+ 215 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.250000 (2722500 searches)
+ 478 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.250000 (2722500 searches)
+ 545 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.250000 (2722500 searches)
+ 483 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.250000 (2722500 searches)
+ 539 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.250000 (2722500 searches)
+ 471 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.500000 (5445000 searches)
+ 726 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.500000 (5445000 searches)
+ 743 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.500000 (5445000 searches)
+ 664 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.500000 (5445000 searches)
+ 679 ms
+ 
+Rows: 3300, Columns: 3300
+Search density: 0.500000 (5445000 searches)
+ 725 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.050000 (567845 searches)
+ 217 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.050000 (567845 searches)
+ 229 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.050000 (567845 searches)
+ 207 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.050000 (567845 searches)
+ 186 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.050000 (567845 searches)
+ 206 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.250000 (2839225 searches)
+ 576 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.250000 (2839225 searches)
+ 534 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.250000 (2839225 searches)
+ 546 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.250000 (2839225 searches)
+ 499 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.250000 (2839225 searches)
+ 529 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.500000 (5678450 searches)
+ 748 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.500000 (5678450 searches)
+ 746 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.500000 (5678450 searches)
+ 758 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.500000 (5678450 searches)
+ 739 ms
+ 
+Rows: 3370, Columns: 3370
+Search density: 0.500000 (5678450 searches)
+ 718 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.050000 (591680 searches)
+ 198 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.050000 (591680 searches)
+ 219 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.050000 (591680 searches)
+ 240 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.050000 (591680 searches)
+ 202 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.050000 (591680 searches)
+ 217 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.250000 (2958400 searches)
+ 581 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.250000 (2958400 searches)
+ 513 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.250000 (2958400 searches)
+ 655 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.250000 (2958400 searches)
+ 555 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.250000 (2958400 searches)
+ 646 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.500000 (5916800 searches)
+ 837 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.500000 (5916800 searches)
+ 946 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.500000 (5916800 searches)
+ 731 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.500000 (5916800 searches)
+ 810 ms
+ 
+Rows: 3440, Columns: 3440
+Search density: 0.500000 (5916800 searches)
+ 759 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.050000 (616005 searches)
+ 228 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.050000 (616005 searches)
+ 214 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.050000 (616005 searches)
+ 211 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.050000 (616005 searches)
+ 219 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.050000 (616005 searches)
+ 231 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.250000 (3080025 searches)
+ 576 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.250000 (3080025 searches)
+ 630 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.250000 (3080025 searches)
+ 616 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.250000 (3080025 searches)
+ 532 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.250000 (3080025 searches)
+ 590 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.500000 (6160050 searches)
+ 1002 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.500000 (6160050 searches)
+ 1234 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.500000 (6160050 searches)
+ 951 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.500000 (6160050 searches)
+ 855 ms
+ 
+Rows: 3510, Columns: 3510
+Search density: 0.500000 (6160050 searches)
+ 956 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.050000 (640820 searches)
+ 229 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.050000 (640820 searches)
+ 218 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.050000 (640820 searches)
+ 221 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.050000 (640820 searches)
+ 214 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.050000 (640820 searches)
+ 218 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.250000 (3204100 searches)
+ 602 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.250000 (3204100 searches)
+ 638 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.250000 (3204100 searches)
+ 672 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.250000 (3204100 searches)
+ 656 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.250000 (3204100 searches)
+ 670 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.500000 (6408200 searches)
+ 895 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.500000 (6408200 searches)
+ 886 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.500000 (6408200 searches)
+ 1000 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.500000 (6408200 searches)
+ 1522 ms
+ 
+Rows: 3580, Columns: 3580
+Search density: 0.500000 (6408200 searches)
+ 987 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.050000 (666125 searches)
+ 450 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.050000 (666125 searches)
+ 430 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.050000 (666125 searches)
+ 426 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.050000 (666125 searches)
+ 399 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.050000 (666125 searches)
+ 467 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.250000 (3330625 searches)
+ 918 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.250000 (3330625 searches)
+ 873 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.250000 (3330625 searches)
+ 855 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.250000 (3330625 searches)
+ 842 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.250000 (3330625 searches)
+ 807 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.500000 (6661250 searches)
+ 1048 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.500000 (6661250 searches)
+ 1101 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.500000 (6661250 searches)
+ 1151 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.500000 (6661250 searches)
+ 1027 ms
+ 
+Rows: 3650, Columns: 3650
+Search density: 0.500000 (6661250 searches)
+ 1000 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.050000 (691920 searches)
+ 241 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.050000 (691920 searches)
+ 261 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.050000 (691920 searches)
+ 254 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.050000 (691920 searches)
+ 236 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.050000 (691920 searches)
+ 241 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.250000 (3459600 searches)
+ 678 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.250000 (3459600 searches)
+ 672 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.250000 (3459600 searches)
+ 589 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.250000 (3459600 searches)
+ 592 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.250000 (3459600 searches)
+ 610 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.500000 (6919200 searches)
+ 816 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.500000 (6919200 searches)
+ 846 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.500000 (6919200 searches)
+ 825 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.500000 (6919200 searches)
+ 944 ms
+ 
+Rows: 3720, Columns: 3720
+Search density: 0.500000 (6919200 searches)
+ 942 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.050000 (718205 searches)
+ 244 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.050000 (718205 searches)
+ 258 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.050000 (718205 searches)
+ 252 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.050000 (718205 searches)
+ 252 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.050000 (718205 searches)
+ 270 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.250000 (3591025 searches)
+ 732 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.250000 (3591025 searches)
+ 628 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.250000 (3591025 searches)
+ 753 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.250000 (3591025 searches)
+ 698 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.250000 (3591025 searches)
+ 622 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.500000 (7182050 searches)
+ 929 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.500000 (7182050 searches)
+ 903 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.500000 (7182050 searches)
+ 1041 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.500000 (7182050 searches)
+ 1124 ms
+ 
+Rows: 3790, Columns: 3790
+Search density: 0.500000 (7182050 searches)
+ 849 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.050000 (744980 searches)
+ 287 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.050000 (744980 searches)
+ 248 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.050000 (744980 searches)
+ 289 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.050000 (744980 searches)
+ 275 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.050000 (744980 searches)
+ 246 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.250000 (3724900 searches)
+ 719 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.250000 (3724900 searches)
+ 685 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.250000 (3724900 searches)
+ 723 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.250000 (3724900 searches)
+ 700 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.250000 (3724900 searches)
+ 639 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.500000 (7449800 searches)
+ 896 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.500000 (7449800 searches)
+ 907 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.500000 (7449800 searches)
+ 1196 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.500000 (7449800 searches)
+ 1162 ms
+ 
+Rows: 3860, Columns: 3860
+Search density: 0.500000 (7449800 searches)
+ 985 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.050000 (772245 searches)
+ 370 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.050000 (772245 searches)
+ 359 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.050000 (772245 searches)
+ 252 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.050000 (772245 searches)
+ 275 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.050000 (772245 searches)
+ 246 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.250000 (3861225 searches)
+ 692 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.250000 (3861225 searches)
+ 671 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.250000 (3861225 searches)
+ 998 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.250000 (3861225 searches)
+ 707 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.250000 (3861225 searches)
+ 844 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.500000 (7722450 searches)
+ 1006 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.500000 (7722450 searches)
+ 1025 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.500000 (7722450 searches)
+ 942 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.500000 (7722450 searches)
+ 1155 ms
+ 
+Rows: 3930, Columns: 3930
+Search density: 0.500000 (7722450 searches)
+ 1084 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.050000 (800000 searches)
+ 254 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.050000 (800000 searches)
+ 252 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.050000 (800000 searches)
+ 296 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.050000 (800000 searches)
+ 299 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.050000 (800000 searches)
+ 393 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.250000 (4000000 searches)
+ 703 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.250000 (4000000 searches)
+ 745 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.250000 (4000000 searches)
+ 875 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.250000 (4000000 searches)
+ 775 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.250000 (4000000 searches)
+ 678 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.500000 (8000000 searches)
+ 1050 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.500000 (8000000 searches)
+ 1085 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.500000 (8000000 searches)
+ 1153 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.500000 (8000000 searches)
+ 1213 ms
+ 
+Rows: 4000, Columns: 4000
+Search density: 0.500000 (8000000 searches)
+ 1068 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.050000 (828245 searches)
+ 290 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.050000 (828245 searches)
+ 305 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.050000 (828245 searches)
+ 290 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.050000 (828245 searches)
+ 285 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.050000 (828245 searches)
+ 309 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.250000 (4141225 searches)
+ 820 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.250000 (4141225 searches)
+ 789 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.250000 (4141225 searches)
+ 844 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.250000 (4141225 searches)
+ 884 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.250000 (4141225 searches)
+ 1653 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.500000 (8282450 searches)
+ 1004 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.500000 (8282450 searches)
+ 1204 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.500000 (8282450 searches)
+ 1343 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.500000 (8282450 searches)
+ 1107 ms
+ 
+Rows: 4070, Columns: 4070
+Search density: 0.500000 (8282450 searches)
+ 1762 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.050000 (856980 searches)
+ 318 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.050000 (856980 searches)
+ 354 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.050000 (856980 searches)
+ 334 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.050000 (856980 searches)
+ 333 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.050000 (856980 searches)
+ 333 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.250000 (4284900 searches)
+ 879 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.250000 (4284900 searches)
+ 867 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.250000 (4284900 searches)
+ 904 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.250000 (4284900 searches)
+ 875 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.250000 (4284900 searches)
+ 796 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.500000 (8569800 searches)
+ 1472 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.500000 (8569800 searches)
+ 1315 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.500000 (8569800 searches)
+ 1103 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.500000 (8569800 searches)
+ 1237 ms
+ 
+Rows: 4140, Columns: 4140
+Search density: 0.500000 (8569800 searches)
+ 1186 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.050000 (886205 searches)
+ 430 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.050000 (886205 searches)
+ 356 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.050000 (886205 searches)
+ 295 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.050000 (886205 searches)
+ 366 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.050000 (886205 searches)
+ 267 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.250000 (4431025 searches)
+ 823 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.250000 (4431025 searches)
+ 959 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.250000 (4431025 searches)
+ 813 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.250000 (4431025 searches)
+ 814 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.250000 (4431025 searches)
+ 1101 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.500000 (8862050 searches)
+ 1288 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.500000 (8862050 searches)
+ 1146 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.500000 (8862050 searches)
+ 1152 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.500000 (8862050 searches)
+ 1399 ms
+ 
+Rows: 4210, Columns: 4210
+Search density: 0.500000 (8862050 searches)
+ 1240 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.050000 (915920 searches)
+ 369 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.050000 (915920 searches)
+ 315 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.050000 (915920 searches)
+ 334 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.050000 (915920 searches)
+ 292 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.050000 (915920 searches)
+ 346 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.250000 (4579600 searches)
+ 966 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.250000 (4579600 searches)
+ 1196 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.250000 (4579600 searches)
+ 920 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.250000 (4579600 searches)
+ 798 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.250000 (4579600 searches)
+ 864 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.500000 (9159200 searches)
+ 1266 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.500000 (9159200 searches)
+ 1232 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.500000 (9159200 searches)
+ 1256 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.500000 (9159200 searches)
+ 1191 ms
+ 
+Rows: 4280, Columns: 4280
+Search density: 0.500000 (9159200 searches)
+ 1165 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.050000 (946125 searches)
+ 676 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.050000 (946125 searches)
+ 638 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.050000 (946125 searches)
+ 746 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.050000 (946125 searches)
+ 765 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.050000 (946125 searches)
+ 583 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.250000 (4730625 searches)
+ 1730 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.250000 (4730625 searches)
+ 1589 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.250000 (4730625 searches)
+ 1351 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.250000 (4730625 searches)
+ 1498 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.250000 (4730625 searches)
+ 1662 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.500000 (9461250 searches)
+ 1606 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.500000 (9461250 searches)
+ 1907 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.500000 (9461250 searches)
+ 2123 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.500000 (9461250 searches)
+ 2056 ms
+ 
+Rows: 4350, Columns: 4350
+Search density: 0.500000 (9461250 searches)
+ 1671 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.050000 (976820 searches)
+ 414 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.050000 (976820 searches)
+ 341 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.050000 (976820 searches)
+ 411 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.050000 (976820 searches)
+ 500 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.050000 (976820 searches)
+ 408 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.250000 (4884100 searches)
+ 992 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.250000 (4884100 searches)
+ 980 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.250000 (4884100 searches)
+ 881 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.250000 (4884100 searches)
+ 922 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.250000 (4884100 searches)
+ 1000 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.500000 (9768200 searches)
+ 1397 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.500000 (9768200 searches)
+ 1235 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.500000 (9768200 searches)
+ 1243 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.500000 (9768200 searches)
+ 1372 ms
+ 
+Rows: 4420, Columns: 4420
+Search density: 0.500000 (9768200 searches)
+ 1304 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.050000 (1008005 searches)
+ 353 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.050000 (1008005 searches)
+ 344 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.050000 (1008005 searches)
+ 351 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.050000 (1008005 searches)
+ 362 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.050000 (1008005 searches)
+ 417 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.250000 (5040025 searches)
+ 1131 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.250000 (5040025 searches)
+ 968 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.250000 (5040025 searches)
+ 866 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.250000 (5040025 searches)
+ 1066 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.250000 (5040025 searches)
+ 1005 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.500000 (10080050 searches)
+ 1419 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.500000 (10080050 searches)
+ 1226 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.500000 (10080050 searches)
+ 1309 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.500000 (10080050 searches)
+ 1371 ms
+ 
+Rows: 4490, Columns: 4490
+Search density: 0.500000 (10080050 searches)
+ 1480 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.050000 (1039680 searches)
+ 336 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.050000 (1039680 searches)
+ 354 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.050000 (1039680 searches)
+ 332 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.050000 (1039680 searches)
+ 343 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.050000 (1039680 searches)
+ 349 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.250000 (5198400 searches)
+ 924 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.250000 (5198400 searches)
+ 1109 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.250000 (5198400 searches)
+ 980 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.250000 (5198400 searches)
+ 1283 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.250000 (5198400 searches)
+ 1104 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.500000 (10396800 searches)
+ 1483 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.500000 (10396800 searches)
+ 1514 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.500000 (10396800 searches)
+ 1420 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.500000 (10396800 searches)
+ 1433 ms
+ 
+Rows: 4560, Columns: 4560
+Search density: 0.500000 (10396800 searches)
+ 1314 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.050000 (1071845 searches)
+ 325 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.050000 (1071845 searches)
+ 393 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.050000 (1071845 searches)
+ 371 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.050000 (1071845 searches)
+ 350 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.050000 (1071845 searches)
+ 355 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.250000 (5359225 searches)
+ 1189 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.250000 (5359225 searches)
+ 972 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.250000 (5359225 searches)
+ 1034 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.250000 (5359225 searches)
+ 1213 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.250000 (5359225 searches)
+ 1111 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.500000 (10718450 searches)
+ 1280 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.500000 (10718450 searches)
+ 1523 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.500000 (10718450 searches)
+ 1380 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.500000 (10718450 searches)
+ 1586 ms
+ 
+Rows: 4630, Columns: 4630
+Search density: 0.500000 (10718450 searches)
+ 1652 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.050000 (1104500 searches)
+ 395 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.050000 (1104500 searches)
+ 422 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.050000 (1104500 searches)
+ 364 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.050000 (1104500 searches)
+ 408 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.050000 (1104500 searches)
+ 413 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.250000 (5522500 searches)
+ 1133 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.250000 (5522500 searches)
+ 1400 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.250000 (5522500 searches)
+ 1266 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.250000 (5522500 searches)
+ 1083 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.250000 (5522500 searches)
+ 981 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.500000 (11045000 searches)
+ 1638 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.500000 (11045000 searches)
+ 1697 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.500000 (11045000 searches)
+ 1542 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.500000 (11045000 searches)
+ 1432 ms
+ 
+Rows: 4700, Columns: 4700
+Search density: 0.500000 (11045000 searches)
+ 1392 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.050000 (1137645 searches)
+ 373 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.050000 (1137645 searches)
+ 391 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.050000 (1137645 searches)
+ 359 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.050000 (1137645 searches)
+ 362 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.050000 (1137645 searches)
+ 364 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.250000 (5688225 searches)
+ 1111 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.250000 (5688225 searches)
+ 1087 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.250000 (5688225 searches)
+ 989 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.250000 (5688225 searches)
+ 994 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.250000 (5688225 searches)
+ 1106 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.500000 (11376450 searches)
+ 1503 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.500000 (11376450 searches)
+ 1459 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.500000 (11376450 searches)
+ 1484 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.500000 (11376450 searches)
+ 1739 ms
+ 
+Rows: 4770, Columns: 4770
+Search density: 0.500000 (11376450 searches)
+ 2274 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.050000 (1171280 searches)
+ 633 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.050000 (1171280 searches)
+ 510 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.050000 (1171280 searches)
+ 512 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.050000 (1171280 searches)
+ 497 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.050000 (1171280 searches)
+ 565 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.250000 (5856400 searches)
+ 1480 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.250000 (5856400 searches)
+ 1165 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.250000 (5856400 searches)
+ 1142 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.250000 (5856400 searches)
+ 1002 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.250000 (5856400 searches)
+ 1332 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.500000 (11712800 searches)
+ 2591 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.500000 (11712800 searches)
+ 2079 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.500000 (11712800 searches)
+ 2146 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.500000 (11712800 searches)
+ 2148 ms
+ 
+Rows: 4840, Columns: 4840
+Search density: 0.500000 (11712800 searches)
+ 2261 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.050000 (1205405 searches)
+ 817 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.050000 (1205405 searches)
+ 451 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.050000 (1205405 searches)
+ 603 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.050000 (1205405 searches)
+ 591 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.050000 (1205405 searches)
+ 519 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.250000 (6027025 searches)
+ 1651 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.250000 (6027025 searches)
+ 1098 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.250000 (6027025 searches)
+ 1203 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.250000 (6027025 searches)
+ 1103 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.250000 (6027025 searches)
+ 1051 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.500000 (12054050 searches)
+ 2057 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.500000 (12054050 searches)
+ 2196 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.500000 (12054050 searches)
+ 2615 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.500000 (12054050 searches)
+ 2418 ms
+ 
+Rows: 4910, Columns: 4910
+Search density: 0.500000 (12054050 searches)
+ 2379 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.050000 (1240020 searches)
+ 631 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.050000 (1240020 searches)
+ 603 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.050000 (1240020 searches)
+ 645 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.050000 (1240020 searches)
+ 509 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.050000 (1240020 searches)
+ 565 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.250000 (6200100 searches)
+ 1636 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.250000 (6200100 searches)
+ 1688 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.250000 (6200100 searches)
+ 1693 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.250000 (6200100 searches)
+ 1723 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.250000 (6200100 searches)
+ 1739 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.500000 (12400200 searches)
+ 2342 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.500000 (12400200 searches)
+ 3171 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.500000 (12400200 searches)
+ 2771 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.500000 (12400200 searches)
+ 2486 ms
+ 
+Rows: 4980, Columns: 4980
+Search density: 0.500000 (12400200 searches)
+ 1920 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.050000 (1275125 searches)
+ 806 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.050000 (1275125 searches)
+ 784 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.050000 (1275125 searches)
+ 781 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.050000 (1275125 searches)
+ 693 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.050000 (1275125 searches)
+ 835 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.250000 (6375625 searches)
+ 1728 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.250000 (6375625 searches)
+ 1592 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.250000 (6375625 searches)
+ 1616 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.250000 (6375625 searches)
+ 1653 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.250000 (6375625 searches)
+ 1519 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.500000 (12751250 searches)
+ 2063 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.500000 (12751250 searches)
+ 2700 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.500000 (12751250 searches)
+ 3011 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.500000 (12751250 searches)
+ 4993 ms
+ 
+Rows: 5050, Columns: 5050
+Search density: 0.500000 (12751250 searches)
+ 4392 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.050000 (1310720 searches)
+ 808 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.050000 (1310720 searches)
+ 612 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.050000 (1310720 searches)
+ 589 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.050000 (1310720 searches)
+ 594 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.050000 (1310720 searches)
+ 623 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.250000 (6553600 searches)
+ 1844 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.250000 (6553600 searches)
+ 2616 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.250000 (6553600 searches)
+ 1633 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.250000 (6553600 searches)
+ 2709 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.250000 (6553600 searches)
+ 2009 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.500000 (13107200 searches)
+ 2970 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.500000 (13107200 searches)
+ 2757 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.500000 (13107200 searches)
+ 2567 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.500000 (13107200 searches)
+ 2329 ms
+ 
+Rows: 5120, Columns: 5120
+Search density: 0.500000 (13107200 searches)
+ 2672 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.050000 (1346805 searches)
+ 806 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.050000 (1346805 searches)
+ 889 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.050000 (1346805 searches)
+ 1028 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.050000 (1346805 searches)
+ 836 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.050000 (1346805 searches)
+ 932 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.250000 (6734025 searches)
+ 2113 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.250000 (6734025 searches)
+ 1837 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.250000 (6734025 searches)
+ 1364 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.250000 (6734025 searches)
+ 1144 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.250000 (6734025 searches)
+ 1675 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.500000 (13468050 searches)
+ 2496 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.500000 (13468050 searches)
+ 2463 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.500000 (13468050 searches)
+ 2631 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.500000 (13468050 searches)
+ 2444 ms
+ 
+Rows: 5190, Columns: 5190
+Search density: 0.500000 (13468050 searches)
+ 2679 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.050000 (1383380 searches)
+ 634 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.050000 (1383380 searches)
+ 956 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.050000 (1383380 searches)
+ 1176 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.050000 (1383380 searches)
+ 1076 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.050000 (1383380 searches)
+ 647 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.250000 (6916900 searches)
+ 1936 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.250000 (6916900 searches)
+ 1893 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.250000 (6916900 searches)
+ 1974 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.250000 (6916900 searches)
+ 2045 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.250000 (6916900 searches)
+ 2161 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.500000 (13833800 searches)
+ 2345 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.500000 (13833800 searches)
+ 2555 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.500000 (13833800 searches)
+ 2864 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.500000 (13833800 searches)
+ 2647 ms
+ 
+Rows: 5260, Columns: 5260
+Search density: 0.500000 (13833800 searches)
+ 2372 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.050000 (1420445 searches)
+ 743 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.050000 (1420445 searches)
+ 718 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.050000 (1420445 searches)
+ 774 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.050000 (1420445 searches)
+ 728 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.050000 (1420445 searches)
+ 691 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.250000 (7102225 searches)
+ 2141 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.250000 (7102225 searches)
+ 1786 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.250000 (7102225 searches)
+ 1811 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.250000 (7102225 searches)
+ 2045 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.250000 (7102225 searches)
+ 3667 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.500000 (14204450 searches)
+ 3124 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.500000 (14204450 searches)
+ 3453 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.500000 (14204450 searches)
+ 5218 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.500000 (14204450 searches)
+ 2259 ms
+ 
+Rows: 5330, Columns: 5330
+Search density: 0.500000 (14204450 searches)
+ 2033 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.050000 (1458000 searches)
+ 641 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.050000 (1458000 searches)
+ 514 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.050000 (1458000 searches)
+ 591 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.050000 (1458000 searches)
+ 544 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.050000 (1458000 searches)
+ 671 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.250000 (7290000 searches)
+ 1418 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.250000 (7290000 searches)
+ 1864 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.250000 (7290000 searches)
+ 2428 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.250000 (7290000 searches)
+ 2692 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.250000 (7290000 searches)
+ 2114 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.500000 (14580000 searches)
+ 4513 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.500000 (14580000 searches)
+ 2162 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.500000 (14580000 searches)
+ 2438 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.500000 (14580000 searches)
+ 2541 ms
+ 
+Rows: 5400, Columns: 5400
+Search density: 0.500000 (14580000 searches)
+ 2134 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.050000 (1496045 searches)
+ 934 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.050000 (1496045 searches)
+ 466 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.050000 (1496045 searches)
+ 422 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.050000 (1496045 searches)
+ 427 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.050000 (1496045 searches)
+ 458 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.250000 (7480225 searches)
+ 1331 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.250000 (7480225 searches)
+ 1424 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.250000 (7480225 searches)
+ 1351 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.250000 (7480225 searches)
+ 1410 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.250000 (7480225 searches)
+ 1407 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.500000 (14960450 searches)
+ 2514 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.500000 (14960450 searches)
+ 1982 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.500000 (14960450 searches)
+ 1932 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.500000 (14960450 searches)
+ 2935 ms
+ 
+Rows: 5470, Columns: 5470
+Search density: 0.500000 (14960450 searches)
+ 2079 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.050000 (1534580 searches)
+ 461 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.050000 (1534580 searches)
+ 469 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.050000 (1534580 searches)
+ 437 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.050000 (1534580 searches)
+ 446 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.050000 (1534580 searches)
+ 478 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.250000 (7672900 searches)
+ 1532 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.250000 (7672900 searches)
+ 1406 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.250000 (7672900 searches)
+ 2484 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.250000 (7672900 searches)
+ 1540 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.250000 (7672900 searches)
+ 2569 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.500000 (15345800 searches)
+ 2762 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.500000 (15345800 searches)
+ 2181 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.500000 (15345800 searches)
+ 1969 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.500000 (15345800 searches)
+ 2113 ms
+ 
+Rows: 5540, Columns: 5540
+Search density: 0.500000 (15345800 searches)
+ 2205 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.050000 (1573605 searches)
+ 443 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.050000 (1573605 searches)
+ 547 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.050000 (1573605 searches)
+ 554 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.050000 (1573605 searches)
+ 504 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.050000 (1573605 searches)
+ 520 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.250000 (7868025 searches)
+ 1581 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.250000 (7868025 searches)
+ 1720 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.250000 (7868025 searches)
+ 1626 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.250000 (7868025 searches)
+ 1625 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.250000 (7868025 searches)
+ 1537 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.500000 (15736050 searches)
+ 2334 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.500000 (15736050 searches)
+ 2417 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.500000 (15736050 searches)
+ 2196 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.500000 (15736050 searches)
+ 2173 ms
+ 
+Rows: 5610, Columns: 5610
+Search density: 0.500000 (15736050 searches)
+ 2332 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.050000 (1613120 searches)
+ 452 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.050000 (1613120 searches)
+ 547 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.050000 (1613120 searches)
+ 453 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.050000 (1613120 searches)
+ 519 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.050000 (1613120 searches)
+ 477 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.250000 (8065600 searches)
+ 1523 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.250000 (8065600 searches)
+ 1572 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.250000 (8065600 searches)
+ 1557 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.250000 (8065600 searches)
+ 1690 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.250000 (8065600 searches)
+ 1593 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.500000 (16131200 searches)
+ 2160 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.500000 (16131200 searches)
+ 2103 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.500000 (16131200 searches)
+ 2071 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.500000 (16131200 searches)
+ 2204 ms
+ 
+Rows: 5680, Columns: 5680
+Search density: 0.500000 (16131200 searches)
+ 2206 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.050000 (1653125 searches)
+ 928 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.050000 (1653125 searches)
+ 966 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.050000 (1653125 searches)
+ 820 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.050000 (1653125 searches)
+ 853 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.050000 (1653125 searches)
+ 886 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.250000 (8265625 searches)
+ 2143 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.250000 (8265625 searches)
+ 2133 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.250000 (8265625 searches)
+ 2139 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.250000 (8265625 searches)
+ 2051 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.250000 (8265625 searches)
+ 2018 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.500000 (16531250 searches)
+ 2538 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.500000 (16531250 searches)
+ 2678 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.500000 (16531250 searches)
+ 2912 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.500000 (16531250 searches)
+ 2766 ms
+ 
+Rows: 5750, Columns: 5750
+Search density: 0.500000 (16531250 searches)
+ 2749 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.050000 (1693620 searches)
+ 471 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.050000 (1693620 searches)
+ 563 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.050000 (1693620 searches)
+ 567 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.050000 (1693620 searches)
+ 562 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.050000 (1693620 searches)
+ 520 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.250000 (8468100 searches)
+ 1523 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.250000 (8468100 searches)
+ 1745 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.250000 (8468100 searches)
+ 1667 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.250000 (8468100 searches)
+ 1439 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.250000 (8468100 searches)
+ 1483 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.500000 (16936200 searches)
+ 2828 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.500000 (16936200 searches)
+ 2229 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.500000 (16936200 searches)
+ 2265 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.500000 (16936200 searches)
+ 2922 ms
+ 
+Rows: 5820, Columns: 5820
+Search density: 0.500000 (16936200 searches)
+ 2264 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.050000 (1734605 searches)
+ 572 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.050000 (1734605 searches)
+ 601 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.050000 (1734605 searches)
+ 564 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.050000 (1734605 searches)
+ 549 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.050000 (1734605 searches)
+ 565 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.250000 (8673025 searches)
+ 1689 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.250000 (8673025 searches)
+ 1705 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.250000 (8673025 searches)
+ 1817 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.250000 (8673025 searches)
+ 1682 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.250000 (8673025 searches)
+ 1719 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.500000 (17346050 searches)
+ 2424 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.500000 (17346050 searches)
+ 2276 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.500000 (17346050 searches)
+ 2246 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.500000 (17346050 searches)
+ 2378 ms
+ 
+Rows: 5890, Columns: 5890
+Search density: 0.500000 (17346050 searches)
+ 2809 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.050000 (1776080 searches)
+ 563 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.050000 (1776080 searches)
+ 568 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.050000 (1776080 searches)
+ 573 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.050000 (1776080 searches)
+ 657 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.050000 (1776080 searches)
+ 518 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.250000 (8880400 searches)
+ 2277 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.250000 (8880400 searches)
+ 1670 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.250000 (8880400 searches)
+ 1712 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.250000 (8880400 searches)
+ 1763 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.250000 (8880400 searches)
+ 1597 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.500000 (17760800 searches)
+ 2287 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.500000 (17760800 searches)
+ 2230 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.500000 (17760800 searches)
+ 2190 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.500000 (17760800 searches)
+ 2184 ms
+ 
+Rows: 5960, Columns: 5960
+Search density: 0.500000 (17760800 searches)
+ 2203 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.050000 (1818045 searches)
+ 609 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.050000 (1818045 searches)
+ 515 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.050000 (1818045 searches)
+ 502 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.050000 (1818045 searches)
+ 510 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.050000 (1818045 searches)
+ 542 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.250000 (9090225 searches)
+ 1574 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.250000 (9090225 searches)
+ 1823 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.250000 (9090225 searches)
+ 1611 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.250000 (9090225 searches)
+ 2269 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.250000 (9090225 searches)
+ 1745 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.500000 (18180450 searches)
+ 2418 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.500000 (18180450 searches)
+ 2490 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.500000 (18180450 searches)
+ 2598 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.500000 (18180450 searches)
+ 2279 ms
+ 
+Rows: 6030, Columns: 6030
+Search density: 0.500000 (18180450 searches)
+ 2955 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.050000 (1860500 searches)
+ 665 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.050000 (1860500 searches)
+ 676 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.050000 (1860500 searches)
+ 645 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.050000 (1860500 searches)
+ 639 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.050000 (1860500 searches)
+ 682 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.250000 (9302500 searches)
+ 1729 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.250000 (9302500 searches)
+ 1646 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.250000 (9302500 searches)
+ 1847 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.250000 (9302500 searches)
+ 1647 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.250000 (9302500 searches)
+ 1765 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.500000 (18605000 searches)
+ 3112 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.500000 (18605000 searches)
+ 2669 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.500000 (18605000 searches)
+ 2598 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.500000 (18605000 searches)
+ 2517 ms
+ 
+Rows: 6100, Columns: 6100
+Search density: 0.500000 (18605000 searches)
+ 2519 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.050000 (1903445 searches)
+ 650 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.050000 (1903445 searches)
+ 621 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.050000 (1903445 searches)
+ 649 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.050000 (1903445 searches)
+ 620 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.050000 (1903445 searches)
+ 551 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.250000 (9517225 searches)
+ 1708 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.250000 (9517225 searches)
+ 1738 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.250000 (9517225 searches)
+ 1879 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.250000 (9517225 searches)
+ 1996 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.250000 (9517225 searches)
+ 1680 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.500000 (19034450 searches)
+ 2730 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.500000 (19034450 searches)
+ 2693 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.500000 (19034450 searches)
+ 3123 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.500000 (19034450 searches)
+ 2620 ms
+ 
+Rows: 6170, Columns: 6170
+Search density: 0.500000 (19034450 searches)
+ 2432 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.050000 (1946880 searches)
+ 603 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.050000 (1946880 searches)
+ 558 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.050000 (1946880 searches)
+ 572 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.050000 (1946880 searches)
+ 716 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.050000 (1946880 searches)
+ 636 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.250000 (9734400 searches)
+ 1983 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.250000 (9734400 searches)
+ 1743 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.250000 (9734400 searches)
+ 1879 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.250000 (9734400 searches)
+ 1966 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.250000 (9734400 searches)
+ 2077 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.500000 (19468800 searches)
+ 2587 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.500000 (19468800 searches)
+ 2630 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.500000 (19468800 searches)
+ 2676 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.500000 (19468800 searches)
+ 2707 ms
+ 
+Rows: 6240, Columns: 6240
+Search density: 0.500000 (19468800 searches)
+ 2530 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.050000 (1990805 searches)
+ 544 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.050000 (1990805 searches)
+ 658 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.050000 (1990805 searches)
+ 641 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.050000 (1990805 searches)
+ 661 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.050000 (1990805 searches)
+ 661 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.250000 (9954025 searches)
+ 2327 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.250000 (9954025 searches)
+ 1779 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.250000 (9954025 searches)
+ 1986 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.250000 (9954025 searches)
+ 2004 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.250000 (9954025 searches)
+ 1931 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.500000 (19908050 searches)
+ 2647 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.500000 (19908050 searches)
+ 2423 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.500000 (19908050 searches)
+ 2510 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.500000 (19908050 searches)
+ 2704 ms
+ 
+Rows: 6310, Columns: 6310
+Search density: 0.500000 (19908050 searches)
+ 2664 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.050000 (2035220 searches)
+ 608 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.050000 (2035220 searches)
+ 652 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.050000 (2035220 searches)
+ 565 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.050000 (2035220 searches)
+ 563 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.050000 (2035220 searches)
+ 603 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.250000 (10176100 searches)
+ 2069 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.250000 (10176100 searches)
+ 1818 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.250000 (10176100 searches)
+ 1762 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.250000 (10176100 searches)
+ 2132 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.250000 (10176100 searches)
+ 2528 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.500000 (20352200 searches)
+ 4737 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.500000 (20352200 searches)
+ 4270 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.500000 (20352200 searches)
+ 3632 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.500000 (20352200 searches)
+ 4317 ms
+ 
+Rows: 6380, Columns: 6380
+Search density: 0.500000 (20352200 searches)
+ 3913 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.050000 (2080125 searches)
+ 1650 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.050000 (2080125 searches)
+ 2682 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.050000 (2080125 searches)
+ 2503 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.050000 (2080125 searches)
+ 1910 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.050000 (2080125 searches)
+ 1546 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.250000 (10400625 searches)
+ 4281 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.250000 (10400625 searches)
+ 5832 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.250000 (10400625 searches)
+ 5872 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.250000 (10400625 searches)
+ 5964 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.250000 (10400625 searches)
+ 4719 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.500000 (20801250 searches)
+ 5940 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.500000 (20801250 searches)
+ 5970 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.500000 (20801250 searches)
+ 5746 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.500000 (20801250 searches)
+ 5549 ms
+ 
+Rows: 6450, Columns: 6450
+Search density: 0.500000 (20801250 searches)
+ 5597 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.050000 (2125520 searches)
+ 1123 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.050000 (2125520 searches)
+ 1188 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.050000 (2125520 searches)
+ 1093 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.050000 (2125520 searches)
+ 1099 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.050000 (2125520 searches)
+ 1133 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.250000 (10627600 searches)
+ 3573 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.250000 (10627600 searches)
+ 2115 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.250000 (10627600 searches)
+ 2146 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.250000 (10627600 searches)
+ 2244 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.250000 (10627600 searches)
+ 2177 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.500000 (21255200 searches)
+ 3111 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.500000 (21255200 searches)
+ 3098 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.500000 (21255200 searches)
+ 3090 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.500000 (21255200 searches)
+ 2969 ms
+ 
+Rows: 6520, Columns: 6520
+Search density: 0.500000 (21255200 searches)
+ 3035 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.050000 (2171405 searches)
+ 641 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.050000 (2171405 searches)
+ 731 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.050000 (2171405 searches)
+ 708 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.050000 (2171405 searches)
+ 651 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.050000 (2171405 searches)
+ 686 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.250000 (10857025 searches)
+ 2177 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.250000 (10857025 searches)
+ 1987 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.250000 (10857025 searches)
+ 2083 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.250000 (10857025 searches)
+ 2221 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.250000 (10857025 searches)
+ 2196 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.500000 (21714050 searches)
+ 3026 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.500000 (21714050 searches)
+ 2997 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.500000 (21714050 searches)
+ 3130 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.500000 (21714050 searches)
+ 3138 ms
+ 
+Rows: 6590, Columns: 6590
+Search density: 0.500000 (21714050 searches)
+ 3147 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.050000 (2217780 searches)
+ 738 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.050000 (2217780 searches)
+ 711 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.050000 (2217780 searches)
+ 728 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.050000 (2217780 searches)
+ 766 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.050000 (2217780 searches)
+ 700 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.250000 (11088900 searches)
+ 2405 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.250000 (11088900 searches)
+ 2233 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.250000 (11088900 searches)
+ 2112 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.250000 (11088900 searches)
+ 2084 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.250000 (11088900 searches)
+ 2125 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.500000 (22177800 searches)
+ 3193 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.500000 (22177800 searches)
+ 3197 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.500000 (22177800 searches)
+ 2996 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.500000 (22177800 searches)
+ 3091 ms
+ 
+Rows: 6660, Columns: 6660
+Search density: 0.500000 (22177800 searches)
+ 3156 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.050000 (2264645 searches)
+ 865 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.050000 (2264645 searches)
+ 785 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.050000 (2264645 searches)
+ 767 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.050000 (2264645 searches)
+ 696 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.050000 (2264645 searches)
+ 742 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.250000 (11323225 searches)
+ 2371 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.250000 (11323225 searches)
+ 2305 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.250000 (11323225 searches)
+ 2394 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.250000 (11323225 searches)
+ 2134 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.250000 (11323225 searches)
+ 2146 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.500000 (22646450 searches)
+ 3164 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.500000 (22646450 searches)
+ 3151 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.500000 (22646450 searches)
+ 3267 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.500000 (22646450 searches)
+ 3075 ms
+ 
+Rows: 6730, Columns: 6730
+Search density: 0.500000 (22646450 searches)
+ 3193 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.050000 (2312000 searches)
+ 810 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.050000 (2312000 searches)
+ 757 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.050000 (2312000 searches)
+ 850 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.050000 (2312000 searches)
+ 812 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.050000 (2312000 searches)
+ 826 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.250000 (11560000 searches)
+ 2503 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.250000 (11560000 searches)
+ 2218 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.250000 (11560000 searches)
+ 2154 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.250000 (11560000 searches)
+ 2314 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.250000 (11560000 searches)
+ 2360 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.500000 (23120000 searches)
+ 3294 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.500000 (23120000 searches)
+ 3438 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.500000 (23120000 searches)
+ 3277 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.500000 (23120000 searches)
+ 3611 ms
+ 
+Rows: 6800, Columns: 6800
+Search density: 0.500000 (23120000 searches)
+ 3377 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.050000 (2359845 searches)
+ 805 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.050000 (2359845 searches)
+ 937 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.050000 (2359845 searches)
+ 731 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.050000 (2359845 searches)
+ 766 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.050000 (2359845 searches)
+ 788 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.250000 (11799225 searches)
+ 2322 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.250000 (11799225 searches)
+ 2453 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.250000 (11799225 searches)
+ 2558 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.250000 (11799225 searches)
+ 2410 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.250000 (11799225 searches)
+ 2155 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.500000 (23598450 searches)
+ 3333 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.500000 (23598450 searches)
+ 3116 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.500000 (23598450 searches)
+ 3322 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.500000 (23598450 searches)
+ 3451 ms
+ 
+Rows: 6870, Columns: 6870
+Search density: 0.500000 (23598450 searches)
+ 3552 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.050000 (2408180 searches)
+ 906 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.050000 (2408180 searches)
+ 840 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.050000 (2408180 searches)
+ 832 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.050000 (2408180 searches)
+ 856 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.050000 (2408180 searches)
+ 859 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.250000 (12040900 searches)
+ 2488 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.250000 (12040900 searches)
+ 2341 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.250000 (12040900 searches)
+ 2203 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.250000 (12040900 searches)
+ 2255 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.250000 (12040900 searches)
+ 2361 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.500000 (24081800 searches)
+ 3399 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.500000 (24081800 searches)
+ 3203 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.500000 (24081800 searches)
+ 3277 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.500000 (24081800 searches)
+ 3280 ms
+ 
+Rows: 6940, Columns: 6940
+Search density: 0.500000 (24081800 searches)
+ 3437 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.050000 (2457005 searches)
+ 824 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.050000 (2457005 searches)
+ 846 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.050000 (2457005 searches)
+ 746 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.050000 (2457005 searches)
+ 1334 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.050000 (2457005 searches)
+ 1061 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.250000 (12285025 searches)
+ 3434 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.250000 (12285025 searches)
+ 3796 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.250000 (12285025 searches)
+ 3918 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.250000 (12285025 searches)
+ 3685 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.250000 (12285025 searches)
+ 3684 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.500000 (24570050 searches)
+ 5306 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.500000 (24570050 searches)
+ 5225 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.500000 (24570050 searches)
+ 5207 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.500000 (24570050 searches)
+ 5100 ms
+ 
+Rows: 7010, Columns: 7010
+Search density: 0.500000 (24570050 searches)
+ 5618 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.050000 (2506320 searches)
+ 1077 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.050000 (2506320 searches)
+ 1288 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.050000 (2506320 searches)
+ 1478 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.050000 (2506320 searches)
+ 1128 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.050000 (2506320 searches)
+ 1419 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.250000 (12531600 searches)
+ 4060 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.250000 (12531600 searches)
+ 3362 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.250000 (12531600 searches)
+ 3806 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.250000 (12531600 searches)
+ 3580 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.250000 (12531600 searches)
+ 4323 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.500000 (25063200 searches)
+ 5315 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.500000 (25063200 searches)
+ 5361 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.500000 (25063200 searches)
+ 5090 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.500000 (25063200 searches)
+ 5620 ms
+ 
+Rows: 7080, Columns: 7080
+Search density: 0.500000 (25063200 searches)
+ 5475 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.050000 (2556125 searches)
+ 2477 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.050000 (2556125 searches)
+ 2953 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.050000 (2556125 searches)
+ 2392 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.050000 (2556125 searches)
+ 2175 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.050000 (2556125 searches)
+ 2455 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.250000 (12780625 searches)
+ 5237 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.250000 (12780625 searches)
+ 5168 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.250000 (12780625 searches)
+ 5434 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.250000 (12780625 searches)
+ 3397 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.250000 (12780625 searches)
+ 3670 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.500000 (25561250 searches)
+ 4371 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.500000 (25561250 searches)
+ 4364 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.500000 (25561250 searches)
+ 4410 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.500000 (25561250 searches)
+ 4322 ms
+ 
+Rows: 7150, Columns: 7150
+Search density: 0.500000 (25561250 searches)
+ 4366 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.050000 (2606420 searches)
+ 832 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.050000 (2606420 searches)
+ 881 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.050000 (2606420 searches)
+ 825 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.050000 (2606420 searches)
+ 897 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.050000 (2606420 searches)
+ 856 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.250000 (13032100 searches)
+ 2690 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.250000 (13032100 searches)
+ 2521 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.250000 (13032100 searches)
+ 2419 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.250000 (13032100 searches)
+ 2458 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.250000 (13032100 searches)
+ 2410 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.500000 (26064200 searches)
+ 3497 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.500000 (26064200 searches)
+ 3564 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.500000 (26064200 searches)
+ 3759 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.500000 (26064200 searches)
+ 3534 ms
+ 
+Rows: 7220, Columns: 7220
+Search density: 0.500000 (26064200 searches)
+ 4042 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.050000 (2657205 searches)
+ 1170 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.050000 (2657205 searches)
+ 1127 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.050000 (2657205 searches)
+ 1235 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.050000 (2657205 searches)
+ 867 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.050000 (2657205 searches)
+ 937 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.250000 (13286025 searches)
+ 3030 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.250000 (13286025 searches)
+ 3015 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.250000 (13286025 searches)
+ 3819 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.250000 (13286025 searches)
+ 2979 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.250000 (13286025 searches)
+ 3226 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.500000 (26572050 searches)
+ 4303 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.500000 (26572050 searches)
+ 3924 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.500000 (26572050 searches)
+ 3546 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.500000 (26572050 searches)
+ 3510 ms
+ 
+Rows: 7290, Columns: 7290
+Search density: 0.500000 (26572050 searches)
+ 3590 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.050000 (2708480 searches)
+ 856 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.050000 (2708480 searches)
+ 1060 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.050000 (2708480 searches)
+ 903 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.050000 (2708480 searches)
+ 1118 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.050000 (2708480 searches)
+ 854 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.250000 (13542400 searches)
+ 2802 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.250000 (13542400 searches)
+ 3230 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.250000 (13542400 searches)
+ 2660 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.250000 (13542400 searches)
+ 2788 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.250000 (13542400 searches)
+ 2825 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.500000 (27084800 searches)
+ 4582 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.500000 (27084800 searches)
+ 4563 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.500000 (27084800 searches)
+ 3768 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.500000 (27084800 searches)
+ 4764 ms
+ 
+Rows: 7360, Columns: 7360
+Search density: 0.500000 (27084800 searches)
+ 4029 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.050000 (2760245 searches)
+ 906 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.050000 (2760245 searches)
+ 889 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.050000 (2760245 searches)
+ 1010 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.050000 (2760245 searches)
+ 891 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.050000 (2760245 searches)
+ 790 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.250000 (13801225 searches)
+ 2741 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.250000 (13801225 searches)
+ 2687 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.250000 (13801225 searches)
+ 2529 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.250000 (13801225 searches)
+ 2635 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.250000 (13801225 searches)
+ 2762 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.500000 (27602450 searches)
+ 4064 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.500000 (27602450 searches)
+ 5383 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.500000 (27602450 searches)
+ 4914 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.500000 (27602450 searches)
+ 4359 ms
+ 
+Rows: 7430, Columns: 7430
+Search density: 0.500000 (27602450 searches)
+ 4537 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.050000 (2812500 searches)
+ 894 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.050000 (2812500 searches)
+ 902 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.050000 (2812500 searches)
+ 1106 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.050000 (2812500 searches)
+ 936 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.050000 (2812500 searches)
+ 906 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.250000 (14062500 searches)
+ 3107 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.250000 (14062500 searches)
+ 3404 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.250000 (14062500 searches)
+ 4094 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.250000 (14062500 searches)
+ 3593 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.250000 (14062500 searches)
+ 3099 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.500000 (28125000 searches)
+ 4032 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.500000 (28125000 searches)
+ 3969 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.500000 (28125000 searches)
+ 3756 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.500000 (28125000 searches)
+ 3869 ms
+ 
+Rows: 7500, Columns: 7500
+Search density: 0.500000 (28125000 searches)
+ 4122 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.050000 (2865245 searches)
+ 1027 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.050000 (2865245 searches)
+ 1071 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.050000 (2865245 searches)
+ 915 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.050000 (2865245 searches)
+ 922 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.050000 (2865245 searches)
+ 1663 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.250000 (14326225 searches)
+ 2931 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.250000 (14326225 searches)
+ 2685 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.250000 (14326225 searches)
+ 2843 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.250000 (14326225 searches)
+ 3895 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.250000 (14326225 searches)
+ 2948 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.500000 (28652450 searches)
+ 4141 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.500000 (28652450 searches)
+ 3910 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.500000 (28652450 searches)
+ 4839 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.500000 (28652450 searches)
+ 4733 ms
+ 
+Rows: 7570, Columns: 7570
+Search density: 0.500000 (28652450 searches)
+ 3987 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.050000 (2918480 searches)
+ 1074 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.050000 (2918480 searches)
+ 925 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.050000 (2918480 searches)
+ 936 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.050000 (2918480 searches)
+ 890 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.050000 (2918480 searches)
+ 963 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.250000 (14592400 searches)
+ 2904 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.250000 (14592400 searches)
+ 2709 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.250000 (14592400 searches)
+ 3368 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.250000 (14592400 searches)
+ 2740 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.250000 (14592400 searches)
+ 3774 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.500000 (29184800 searches)
+ 4895 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.500000 (29184800 searches)
+ 4040 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.500000 (29184800 searches)
+ 4321 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.500000 (29184800 searches)
+ 4115 ms
+ 
+Rows: 7640, Columns: 7640
+Search density: 0.500000 (29184800 searches)
+ 4174 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.050000 (2972205 searches)
+ 945 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.050000 (2972205 searches)
+ 966 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.050000 (2972205 searches)
+ 999 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.050000 (2972205 searches)
+ 889 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.050000 (2972205 searches)
+ 1076 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.250000 (14861025 searches)
+ 2965 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.250000 (14861025 searches)
+ 2957 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.250000 (14861025 searches)
+ 3131 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.250000 (14861025 searches)
+ 2973 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.250000 (14861025 searches)
+ 3827 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.500000 (29722050 searches)
+ 4989 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.500000 (29722050 searches)
+ 5016 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.500000 (29722050 searches)
+ 4965 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.500000 (29722050 searches)
+ 4988 ms
+ 
+Rows: 7710, Columns: 7710
+Search density: 0.500000 (29722050 searches)
+ 4635 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.050000 (3026420 searches)
+ 930 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.050000 (3026420 searches)
+ 964 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.050000 (3026420 searches)
+ 971 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.050000 (3026420 searches)
+ 1099 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.050000 (3026420 searches)
+ 1322 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.250000 (15132100 searches)
+ 2758 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.250000 (15132100 searches)
+ 2577 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.250000 (15132100 searches)
+ 2629 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.250000 (15132100 searches)
+ 2844 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.250000 (15132100 searches)
+ 2821 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.500000 (30264200 searches)
+ 4009 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.500000 (30264200 searches)
+ 3984 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.500000 (30264200 searches)
+ 3946 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.500000 (30264200 searches)
+ 3701 ms
+ 
+Rows: 7780, Columns: 7780
+Search density: 0.500000 (30264200 searches)
+ 3608 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.050000 (3081125 searches)
+ 1556 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.050000 (3081125 searches)
+ 1560 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.050000 (3081125 searches)
+ 1786 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.050000 (3081125 searches)
+ 1521 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.050000 (3081125 searches)
+ 1558 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.250000 (15405625 searches)
+ 3690 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.250000 (15405625 searches)
+ 3489 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.250000 (15405625 searches)
+ 3530 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.250000 (15405625 searches)
+ 3951 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.250000 (15405625 searches)
+ 3566 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.500000 (30811250 searches)
+ 4750 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.500000 (30811250 searches)
+ 5712 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.500000 (30811250 searches)
+ 4971 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.500000 (30811250 searches)
+ 5041 ms
+ 
+Rows: 7850, Columns: 7850
+Search density: 0.500000 (30811250 searches)
+ 7806 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.050000 (3136320 searches)
+ 881 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.050000 (3136320 searches)
+ 846 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.050000 (3136320 searches)
+ 963 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.050000 (3136320 searches)
+ 889 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.050000 (3136320 searches)
+ 1789 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.250000 (15681600 searches)
+ 5622 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.250000 (15681600 searches)
+ 5498 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.250000 (15681600 searches)
+ 4335 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.250000 (15681600 searches)
+ 2731 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.250000 (15681600 searches)
+ 2738 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.500000 (31363200 searches)
+ 3985 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.500000 (31363200 searches)
+ 4114 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.500000 (31363200 searches)
+ 5591 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.500000 (31363200 searches)
+ 3753 ms
+ 
+Rows: 7920, Columns: 7920
+Search density: 0.500000 (31363200 searches)
+ 3967 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.050000 (3192005 searches)
+ 915 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.050000 (3192005 searches)
+ 1038 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.050000 (3192005 searches)
+ 1014 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.050000 (3192005 searches)
+ 965 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.050000 (3192005 searches)
+ 1185 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.250000 (15960025 searches)
+ 3061 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.250000 (15960025 searches)
+ 4749 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.250000 (15960025 searches)
+ 3165 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.250000 (15960025 searches)
+ 3770 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.250000 (15960025 searches)
+ 5656 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.500000 (31920050 searches)
+ 6236 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.500000 (31920050 searches)
+ 3905 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.500000 (31920050 searches)
+ 6120 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.500000 (31920050 searches)
+ 4051 ms
+ 
+Rows: 7990, Columns: 7990
+Search density: 0.500000 (31920050 searches)
+ 4498 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.050000 (3248180 searches)
+ 974 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.050000 (3248180 searches)
+ 1580 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.050000 (3248180 searches)
+ 1101 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.050000 (3248180 searches)
+ 1295 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.050000 (3248180 searches)
+ 1731 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.250000 (16240900 searches)
+ 4383 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.250000 (16240900 searches)
+ 6765 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.250000 (16240900 searches)
+ 4831 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.250000 (16240900 searches)
+ 3425 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.250000 (16240900 searches)
+ 7037 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.500000 (32481800 searches)
+ 4377 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.500000 (32481800 searches)
+ 3993 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.500000 (32481800 searches)
+ 3937 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.500000 (32481800 searches)
+ 3951 ms
+ 
+Rows: 8060, Columns: 8060
+Search density: 0.500000 (32481800 searches)
+ 4018 ms
+ 
