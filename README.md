@@ -6,7 +6,7 @@ There are 4 rules/targets established in the Makefile:
 * ```make```: This compiles all the files and saves them in the bin/MonteCarloMini folder.
 * ```make runSerial```: This compiles and runs the serial program. 
 * ```make runParallel```: This compiles and runs the parallel solution.
-* ```make clean```: This removes the .class files from the bin/MonteCarloMini folder.
+* ```make clean```: This removes the .class files from the bin/MonteCarloMini folder.\
 When using any of these, make sure you are in the main project folder: SMNAIM002_CSC2002S_PCP1
 
 ## Input parameters:
